@@ -1,0 +1,1 @@
+this file is a filler to keep the img folder in the repository until we have images to add
