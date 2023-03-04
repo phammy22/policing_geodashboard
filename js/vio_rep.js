@@ -12,7 +12,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
     map.addSource('reports', {
         type: 'geojson',
-        data: '../assets/police_violence.geojson'
+        data: '/assets/police_violence.geojson'
     });
 
     map.addLayer({
@@ -30,13 +30,10 @@ map.on('load', () => {
     // Create a popup, but don't add it to the map yet.
     const popup = new mapboxgl.Popup({
         closeButton: false,
-        closeOnClick: false
+        closeOnClick: true
     });
-        
-    map.on('mouseenter', 'report-points', (e) => {
-        // Change the cursor style as a UI indicator.
-        map.getCanvas().style.cursor = 'pointer';
-        
+
+    map.on('click', 'report-points', (e) => {
         // Copy coordinates array.
         const coordinates = e.features[0].geometry.coordinates.slice();
         const name = e.features[0].properties.name;
@@ -47,6 +44,8 @@ map.on('load', () => {
         const agency = e.features[0].properties.agency_resposible;
         const circumstances = e.features[0].properties.circumstances;
         const news = e.features[0].properties.news_urls;
+        const race = e.features[0].properties.race;
+        const gender = e.features[0].properties.gender;
         
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
@@ -58,12 +57,14 @@ map.on('load', () => {
         // Populate the popup and set its coordinates
         // based on the feature found.
         popup.setLngLat(coordinates).setHTML
-            (name + ", " + age + " y/o" + "<br>" + city + ", " + state + "<br>" + date + "<br>" + circumstances + "<br>").addTo(map);
+            (name + ", " + age + " y/o " + race + " " + gender + "<br>" + "Date: " + date + "<br>" + circumstances + "<br>" + "<a href='" + news + "'>Read More</a>").addTo(map);
     });
-        
+    // Change the cursor style to pointer on hover of points
+    map.on('mouseenter', 'report-points', () => {
+        map.getCanvas().style.cursor = 'pointer';
+    });
     map.on('mouseleave', 'report-points', () => {
         map.getCanvas().style.cursor = '';
-        popup.remove();
     });
 });
 
