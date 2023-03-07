@@ -12,7 +12,7 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
     map.addSource('reports', {
         type: 'geojson',
-        data: '/assets/police_violence.geojson'
+        data: 'assets/police_violence.geojson'
     });
 
     map.addLayer({
