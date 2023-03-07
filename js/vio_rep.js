@@ -22,7 +22,15 @@ map.on('load', () => {
         'paint': {
             'circle-radius': 4,
             'circle-stroke-width': 2,
-            'circle-color': 'red',
+            'circle-color': [
+                'match',
+                ['get', 'race'],
+                'White',
+                '#F69697',
+                '',
+                '#000',
+                '#D21404'
+            ],
             'circle-stroke-color': 'white'
         }
     });
