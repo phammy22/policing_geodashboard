@@ -1,1 +1,719 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2013", "White": "0.663429133905508", "Black": "0.264780432139043", "Latine": "0.0391600923677448", "Asian": "0.0118593911689584"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2013", "White": "0.62475990706431", "Black": "0.0344836029447773", "Latine": "0.0664424892400276", "Asian": "0.0611862903532971"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2013", "White": "0.566165667465062", "Black": "0.0401148458098724", "Latine": "0.302458536956375", "Asian": "0.0300934533180093"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2013", "White": "0.735707867849034", "Black": "0.156757867291484", "Latine": "0.0687510496311212", "Asian": "0.0124796705248037"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2013", "White": "0.388460101541456", "Black": "0.056557276783335", "Latine": "0.383912161686418", "Asian": "0.137257317357238"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2013", "White": "0.691066890366598", "Black": "0.03803057000395", "Latine": "0.210451549787629", "Asian": "0.0293098411708979"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2013", "White": "0.693628061667149", "Black": "0.0969352739649841", "Latine": "0.146611032012636", "Asian": "0.0405580521011768"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2013", "White": "0.639734960556263", "Black": "0.210037493964347", "Latine": "0.0875680124958277", "Asian": "0.0369084924747421"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2013", "White": "0.355780579751844", "Black": "0.480017758554813", "Latine": "0.101974014964831", "Asian": "0.0337195973696301"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2013", "White": "0.561882456070365", "Black": "0.154814896644276", "Latine": "0.23630604423087", "Asian": "0.0258590814847547"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2013", "White": "0.545992075592812", "Black": "0.306382189168776", "Latine": "0.0907498843844383", "Asian": "0.0356456212150978"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2013", "White": "0.229504705659469", "Black": "0.0196773058586066", "Latine": "0.0985482039864564", "Asian": "0.449733414811681"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2013", "White": "0.831770396542227", "Black": "0.00500640144503938", "Latine": "0.117957790161624", "Asian": "0.0164768977307125"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2013", "White": "0.626759151336327", "Black": "0.140831546944664", "Latine": "0.164442074236918", "Asian": "0.0486947233513699"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2013", "White": "0.805540243942156", "Black": "0.0892303674594447", "Latine": "0.0638370500731863", "Asian": "0.0187147822323328"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2013", "White": "0.874710394975951", "Black": "0.0326140558423203", "Latine": "0.0538746239988403", "Asian": "0.0207544874217581"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2013", "White": "0.77090260843544", "Black": "0.0580250501303233", "Latine": "0.111221763142991", "Asian": "0.0245235157260457"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2013", "White": "0.856309986019141", "Black": "0.0792815954332986", "Latine": "0.032098869359167", "Asian": "0.0121454873904937"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2013", "White": "0.595226214849518", "Black": "0.321227032063769", "Latine": "0.0472786549258778", "Asian": "0.015883575074533"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2013", "White": "0.938884380208718", "Black": "0.0104020019543748", "Latine": "0.0128848710609485", "Asian": "0.0102988627586197"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2013", "White": "0.531283997102962", "Black": "0.290740610179371", "Latine": "0.0896250076322178", "Asian": "0.0590133203706509"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2013", "White": "0.746253300549962", "Black": "0.064101043147108", "Latine": "0.105116614451538", "Asian": "0.0571464302662075"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2013", "White": "0.759395114324294", "Black": "0.137938069986909", "Latine": "0.0471022438003392", "Asian": "0.0269334257108851"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2013", "White": "0.818763998096074", "Black": "0.053556761703054", "Latine": "0.0487002756264321", "Asian": "0.044519387939591"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2013", "White": "0.573053620160691", "Black": "0.376968227207278", "Latine": "0.0265782341375906", "Asian": "0.00946808428838258"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2013", "White": "0.803722793415342", "Black": "0.114333131872014", "Latine": "0.0375527098753493", "Asian": "0.0171696002644531"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2013", "White": "0.870946102357745", "Black": "0.00235134190008521", "Latine": "0.0321080809523575", "Asian": "0.0074953332709461"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2013", "White": "0.809639307343368", "Black": "0.0468880116627313", "Latine": "0.098192362281083", "Asian": "0.017845177670408"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2013", "White": "0.520974604822131", "Black": "0.0809258043335522", "Latine": "0.275143218825176", "Asian": "0.082650451447528"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2013", "White": "0.915019656823521", "Black": "0.00836671177573314", "Latine": "0.031043651522261", "Asian": "0.0240664803367539"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2013", "White": "0.573403148256292", "Black": "0.127173152972372", "Latine": "0.18929349696646", "Asian": "0.0891498795584706"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2013", "White": "0.392952145196321", "Black": "0.0172623720379976", "Latine": "0.473180430319663", "Asian": "0.0133473234139953"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2013", "White": "0.56930017296209", "Black": "0.143600415385845", "Latine": "0.183632266994153", "Asian": "0.0783214112859787"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2013", "White": "0.642202118996026", "Black": "0.212929450064277", "Latine": "0.08803114522048", "Asian": "0.0246104308868955"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2013", "White": "0.873309528845316", "Black": "0.0172589449994678", "Latine": "0.022652970100623", "Asian": "0.0105378404269878"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2013", "White": "0.803558316757136", "Black": "0.120399889100225", "Latine": "0.0328796398661182", "Asian": "0.0182799680022346"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2013", "White": "0.673860064281426", "Black": "0.0719693821794603", "Latine": "0.0961112750118943", "Asian": "0.0170754029015979"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2013", "White": "0.773166092672767", "Black": "0.0168539197188851", "Latine": "0.122812472567248", "Asian": "0.0425985320853472"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2013", "White": "0.782776951042215", "Black": "0.106710993853748", "Latine": "0.0628766645104304", "Asian": "0.0297476060571164"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2013", "White": "0.746665512771621", "Black": "0.0518121065780577", "Latine": "0.135862582512213", "Asian": "0.0303934052996117"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2013", "White": "0.638600380033756", "Black": "0.273781377759543", "Latine": "0.0529286956062812", "Asian": "0.0137326096230679"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2013", "White": "0.833458598115465", "Black": "0.0164485481318582", "Latine": "0.032437857818357", "Asian": "0.0101103474233527"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2013", "White": "0.748487602636585", "Black": "0.168461469543154", "Latine": "0.0476376305461626", "Asian": "0.0150320706135396"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2013", "White": "0.439467112176624", "Black": "0.115836004372775", "Latine": "0.38395825378316", "Asian": "0.0413354137275087"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2013", "White": "0.79459107468375", "Black": "0.00949438651550292", "Latine": "0.133825622088806", "Asian": "0.0307383435049875"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2013", "White": "0.940170435504205", "Black": "0.0104623142843464", "Latine": "0.014753522812505", "Asian": "0.0140625249349696"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2013", "White": "0.635258077539782", "Black": "0.189444343225302", "Latine": "0.0855847867023469", "Asian": "0.0587943327233955"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2013", "White": "0.708781987449877", "Black": "0.0351939049310856", "Latine": "0.119449218708536", "Asian": "0.0816427848270492"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2013", "White": "0.926558428391461", "Black": "0.0337113008438746", "Latine": "0.0138240547396759", "Asian": "0.00619046283673012"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2013", "White": "0.824156457061323", "Black": "0.0614047750601501", "Latine": "0.06307889668176", "Asian": "0.0246864156366512"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2013", "White": "0.847267179031267", "Black": "0.0132753690844372", "Latine": "0.0890625375434646", "Asian": "0.00872724651510835"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2014", "White": "0.660880768808034", "Black": "0.266161405887808", "Latine": "0.0392316373835237", "Asian": "0.0119609178663569"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2014", "White": "0.617820320007818", "Black": "0.0309284787412519", "Latine": "0.066952433177872", "Asian": "0.0705412551647003"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2014", "White": "0.561276087115412", "Black": "0.0403726726528653", "Latine": "0.305485387768878", "Asian": "0.0321195148053535"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2014", "White": "0.733703730048419", "Black": "0.156796069538213", "Latine": "0.069272231472214", "Asian": "0.0149698166344106"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2014", "White": "0.382751833000451", "Black": "0.0552206172282714", "Latine": "0.386332813607371", "Asian": "0.140338921461246"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2014", "White": "0.688292052116315", "Black": "0.0383497271963115", "Latine": "0.212107995233637", "Asian": "0.0294695573040849"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2014", "White": "0.68564511075084", "Black": "0.0974530100979321", "Latine": "0.150200865966001", "Asian": "0.0422161901110386"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2014", "White": "0.635052489595068", "Black": "0.213840323039202", "Latine": "0.0886797333088218", "Asian": "0.038940203973006"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2014", "White": "0.356508568159018", "Black": "0.476949975185652", "Latine": "0.103555509012844", "Asian": "0.0381002681770788"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2014", "White": "0.555890911395934", "Black": "0.155218966468957", "Latine": "0.240776076484456", "Asian": "0.0263149441744121"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2014", "White": "0.541963861186057", "Black": "0.308536314949388", "Latine": "0.0914284084436866", "Asian": "0.0371837422973549"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2014", "White": "0.229528001966805", "Black": "0.0205873505964168", "Latine": "0.100350742236508", "Asian": "0.447940595719381"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2014", "White": "0.827894649255046", "Black": "0.0053925935352507", "Latine": "0.121057423106291", "Asian": "0.0156399896235096"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2014", "White": "0.621709736673349", "Black": "0.141076100610376", "Latine": "0.167122132698993", "Asian": "0.0512363573690005"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2014", "White": "0.80253454108056", "Black": "0.0922330413507649", "Latine": "0.064573345935298", "Asian": "0.0196919592745331"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2014", "White": "0.871894155563695", "Black": "0.0339168736639583", "Latine": "0.0549984133247252", "Asian": "0.0223895007798203"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2014", "White": "0.767369795190875", "Black": "0.0563949089899832", "Latine": "0.11312073845196", "Asian": "0.0250862510980465"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2014", "White": "0.854091022071814", "Black": "0.0775473738613518", "Latine": "0.0327795195466955", "Asian": "0.0128155774486984"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2014", "White": "0.592322561830115", "Black": "0.321834037468417", "Latine": "0.0477846198315754", "Asian": "0.0171508724478867"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2014", "White": "0.936074202553363", "Black": "0.0130464953848953", "Latine": "0.0125081855424712", "Asian": "0.0104654650929374"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2014", "White": "0.524211118821058", "Black": "0.292704964705382", "Latine": "0.0930025348005917", "Asian": "0.0611986432650922"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2014", "White": "0.738119621526229", "Black": "0.0650357991688568", "Latine": "0.108102578821029", "Asian": "0.0612161636479217"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2014", "White": "0.756913632732273", "Black": "0.138188092546456", "Latine": "0.0480872769662025", "Asian": "0.0280754241450222"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2014", "White": "0.813445899552754", "Black": "0.0566219909099455", "Latine": "0.050509485405722", "Asian": "0.0467787992061091"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2014", "White": "0.572092119145821", "Black": "0.377262256607124", "Latine": "0.0266131922370786", "Asian": "0.00793766630740204"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2014", "White": "0.799321655870805", "Black": "0.115609583697048", "Latine": "0.0381983343528066", "Asian": "0.018115014061804"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2014", "White": "0.868123515625076", "Black": "0.00546611448652229", "Latine": "0.0332431595411785", "Asian": "0.00850447303041582"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2014", "White": "0.8049745336574", "Black": "0.0457644765913209", "Latine": "0.101064946481616", "Asian": "0.0193191294406653"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2014", "White": "0.51329101239513", "Black": "0.0812592304812196", "Latine": "0.278080475531146", "Asian": "0.0822084752944508"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2014", "White": "0.911791639062927", "Black": "0.0117703097572906", "Latine": "0.031250824343747", "Asian": "0.0255506993072875"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2014", "White": "0.565983324336344", "Black": "0.127913584148889", "Latine": "0.193523286353198", "Asian": "0.0917862986571644"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2014", "White": "0.387177714315305", "Black": "0.0177073723659504", "Latine": "0.476563743663609", "Asian": "0.0154183120985514"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2014", "White": "0.563858604481757", "Black": "0.144157311672757", "Latine": "0.185777212021314", "Asian": "0.080644570732424"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2014", "White": "0.639787815000135", "Black": "0.214343897463828", "Latine": "0.0895463821067735", "Asian": "0.0248526643901768"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2014", "White": "0.868747312307805", "Black": "0.02098090284821", "Latine": "0.0241763829275087", "Asian": "0.0107413026956708"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2014", "White": "0.800163582312928", "Black": "0.121259033532649", "Latine": "0.034031607111268", "Asian": "0.019119189543911"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2014", "White": "0.66982383676749", "Black": "0.0727726375955345", "Latine": "0.0975286297163188", "Asian": "0.0208679566101632"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2014", "White": "0.768674883300476", "Black": "0.0168191385959384", "Latine": "0.124974592209688", "Asian": "0.0428576214177534"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2014", "White": "0.777298627088992", "Black": "0.107067304522824", "Latine": "0.0651916301673023", "Asian": "0.0312323040938801"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2014", "White": "0.740253967832763", "Black": "0.0549445446386517", "Latine": "0.140456588635229", "Asian": "0.0330770404473958"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2014", "White": "0.637565954720576", "Black": "0.273056578379392", "Latine": "0.0533388432693593", "Asian": "0.0142200219266207"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2014", "White": "0.831298385442611", "Black": "0.0159955460485832", "Latine": "0.0343247282210566", "Asian": "0.0115134644123421"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2014", "White": "0.745493752664386", "Black": "0.16747229344216", "Latine": "0.0491495952576682", "Asian": "0.0157543830290386"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2014", "White": "0.434600818089341", "Black": "0.116813699824735", "Latine": "0.385980346892257", "Asian": "0.0431490081336329"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2014", "White": "0.792143944990353", "Black": "0.0106310030031581", "Latine": "0.134846488262266", "Asian": "0.0301647829251535"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2014", "White": "0.931278947654023", "Black": "0.0100500828329838", "Latine": "0.0157558230470408", "Asian": "0.0206460015130187"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2014", "White": "0.629796779813912", "Black": "0.189371879837464", "Latine": "0.0879665598924082", "Asian": "0.0614515061872102"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2014", "White": "0.702433891805317", "Black": "0.0336014999582244", "Latine": "0.121565723009036", "Asian": "0.0837397844376502"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2014", "White": "0.925767135088628", "Black": "0.0376366110620507", "Latine": "0.0124432127095442", "Asian": "0.00629780914282132"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2014", "White": "0.821611709396543", "Black": "0.0606311974994981", "Latine": "0.0642090995427927", "Asian": "0.0265612331882025"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2014", "White": "0.840195976054219", "Black": "0.0116424977702759", "Latine": "0.0979657726657228", "Asian": "0.0113155286371892"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2015", "White": "0.659729338200474", "Black": "0.26709211955845", "Latine": "0.0395029490763389", "Asian": "0.0118508435619911"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2015", "White": "0.614579270670827", "Black": "0.0344595033801352", "Latine": "0.070038947391229", "Asian": "0.0715610916103311"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2015", "White": "0.556953690393984", "Black": "0.0408713156655656", "Latine": "0.307336119383749", "Asian": "0.032254086626299"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2015", "White": "0.729773044425432", "Black": "0.157368669171084", "Latine": "0.0697030827975518", "Asian": "0.0153854470680988"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2015", "White": "0.378455968297004", "Black": "0.0558082553864473", "Latine": "0.387916096582695", "Asian": "0.142958156045073"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2015", "White": "0.684991718246651", "Black": "0.0397848540127926", "Latine": "0.213603994007962", "Asian": "0.0313707832057258"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2015", "White": "0.679145481087397", "Black": "0.100088111958998", "Latine": "0.154380005380288", "Asian": "0.0430138968488557"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2015", "White": "0.629007943471743", "Black": "0.212729429325936", "Latine": "0.0900189653823628", "Asian": "0.039160237394998"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2015", "White": "0.360630619373189", "Black": "0.465712526107214", "Latine": "0.10629280541721", "Asian": "0.0382325639515165"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2015", "White": "0.551191360857868", "Black": "0.155372489698722", "Latine": "0.244775216868483", "Asian": "0.0266453432226651"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2015", "White": "0.536837900862077", "Black": "0.30951241622499", "Latine": "0.0930478733922932", "Asian": "0.0378736468243324"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2015", "White": "0.227979404904851", "Black": "0.0189256379038043", "Latine": "0.103699838572565", "Asian": "0.433720102570335"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2015", "White": "0.826005933785719", "Black": "0.00564193047440073", "Latine": "0.120797858519696", "Asian": "0.0123836053488667"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2015", "White": "0.618050318059999", "Black": "0.141190723635585", "Latine": "0.168828448222569", "Asian": "0.0518944214208481"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2015", "White": "0.79897170255964", "Black": "0.0913100029004423", "Latine": "0.0660920165325212", "Asian": "0.0212103908346023"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2015", "White": "0.868222692218923", "Black": "0.0326415802815648", "Latine": "0.0557213917607451", "Asian": "0.0220019917417304"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2015", "White": "0.763484577940756", "Black": "0.058071719693465", "Latine": "0.115563354136035", "Asian": "0.0290489109062553"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2015", "White": "0.851595627842314", "Black": "0.0800589004703179", "Latine": "0.0328072275107501", "Asian": "0.0140851308854144"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2015", "White": "0.590211496119231", "Black": "0.322001043093105", "Latine": "0.0486836730237111", "Asian": "0.0168871035839412"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2015", "White": "0.934780580864918", "Black": "0.0110973363985412", "Latine": "0.0155544756448371", "Asian": "0.0109243166472082"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2015", "White": "0.518683983969768", "Black": "0.289128048560194", "Latine": "0.0953193101825869", "Asian": "0.0633142875409084"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2015", "White": "0.72941819039206", "Black": "0.0671377197353947", "Latine": "0.111423606010931", "Asian": "0.0635319678406787"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2015", "White": "0.754416796606043", "Black": "0.138597477106751", "Latine": "0.0491137583627477", "Asian": "0.0291200591459315"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2015", "White": "0.80936878027774", "Black": "0.0572149780111243", "Latine": "0.0508738897630681", "Asian": "0.0477501614873523"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2015", "White": "0.569779499808344", "Black": "0.377927189253335", "Latine": "0.0286147965483788", "Asian": "0.0104343333445843"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2015", "White": "0.798793721949507", "Black": "0.115738981325752", "Latine": "0.0391326159595718", "Asian": "0.0196355096066981"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2015", "White": "0.864969132067508", "Black": "0.00490440476732152", "Latine": "0.0359969369252499", "Asian": "0.00691515263580293"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2015", "White": "0.801225088203186", "Black": "0.049048354858954", "Latine": "0.103607760825656", "Asian": "0.0209599249020404"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2015", "White": "0.504959276612893", "Black": "0.0825872711957922", "Latine": "0.281216045827431", "Asian": "0.0844427840302749"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2015", "White": "0.909415094453062", "Black": "0.0127280160648365", "Latine": "0.0333088332551736", "Asian": "0.025231322823852"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2015", "White": "0.560387331431647", "Black": "0.126343420131228", "Latine": "0.196805251343127", "Asian": "0.0940889458410029"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2015", "White": "0.382394877198266", "Black": "0.0183496402346352", "Latine": "0.480746570083387", "Asian": "0.0146001959609785"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2015", "White": "0.558820963506838", "Black": "0.143577187696112", "Latine": "0.188024666455612", "Asian": "0.0844245122612176"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2015", "White": "0.636119780117143", "Black": "0.214518816561354", "Latine": "0.0908719498801231", "Asian": "0.026558026335678"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2015", "White": "0.859748879682083", "Black": "0.0168021264902342", "Latine": "0.0341855500126828", "Asian": "0.0127991037456667"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2015", "White": "0.796990430814412", "Black": "0.121052681883713", "Latine": "0.035136669007923", "Asian": "0.0203158879169389"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2015", "White": "0.663638887766795", "Black": "0.0718968803002962", "Latine": "0.101322616455034", "Asian": "0.0208202410530616"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2015", "White": "0.765175874669922", "Black": "0.017693821533357", "Latine": "0.126949098989644", "Asian": "0.0435924553552924"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2015", "White": "0.772487692445766", "Black": "0.104845825851398", "Latine": "0.0677285527681579", "Asian": "0.0331532826041908"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2015", "White": "0.733003375941259", "Black": "0.0533059799412666", "Latine": "0.144471541174934", "Asian": "0.0337916004763807"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2015", "White": "0.637323315113561", "Black": "0.2718766964874", "Latine": "0.0534256944135244", "Asian": "0.0150410138913341"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2015", "White": "0.826076422095614", "Black": "0.0144000540497094", "Latine": "0.0347455761361214", "Asian": "0.0127377925120185"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2015", "White": "0.742358187106372", "Black": "0.167618921506435", "Latine": "0.0506163432899025", "Asian": "0.0160127594219595"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2015", "White": "0.429581638490415", "Black": "0.117399163292999", "Latine": "0.388408595923407", "Asian": "0.0454324810039377"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2015", "White": "0.789290698446787", "Black": "0.0111151202686054", "Latine": "0.136595148266692", "Asian": "0.0299630931276847"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2015", "White": "0.931737806728622", "Black": "0.01373230550027", "Latine": "0.0170483769459557", "Asian": "0.0154973627967453"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2015", "White": "0.625198541857306", "Black": "0.188709330903652", "Latine": "0.0899103697211724", "Asian": "0.0629419587968164"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2015", "White": "0.697075917204053", "Black": "0.0354614439376817", "Latine": "0.123637043709576", "Asian": "0.0840961620986197"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2015", "White": "0.923228756355307", "Black": "0.0376400119731385", "Latine": "0.0145765369865866", "Asian": "0.00814693990872651"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2015", "White": "0.81830241415464", "Black": "0.0619993252863245", "Latine": "0.0659375808413198", "Asian": "0.0263826215658521"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2015", "White": "0.840331202323125", "Black": "0.00819816176909677", "Latine": "0.0986185116369537", "Asian": "0.0102848114764028"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2016", "White": "0.657184627721917", "Black": "0.267721711595008", "Latine": "0.0409172783912158", "Asian": "0.0124767133427919"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2016", "White": "0.612543031753862", "Black": "0.0287696085963763", "Latine": "0.0690718620180241", "Asian": "0.0709993610947116"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2016", "White": "0.553439720932018", "Black": "0.0412234992254444", "Latine": "0.309570483407254", "Asian": "0.0327758870165953"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2016", "White": "0.727610626694973", "Black": "0.156459570959305", "Latine": "0.0719291036085358", "Asian": "0.0160572348747494"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2016", "White": "0.375245238747285", "Black": "0.0551022436499836", "Latine": "0.389315219914427", "Asian": "0.143426358261195"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2016", "White": "0.685496462893091", "Black": "0.039924592255816", "Latine": "0.21308246751899", "Asian": "0.0321580277752459"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2016", "White": "0.67428445845212", "Black": "0.10021188596967", "Latine": "0.156766818064383", "Asian": "0.045027026785205"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2016", "White": "0.626722965343753", "Black": "0.210731410145316", "Latine": "0.0912826330135022", "Asian": "0.0404331637020582"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2016", "White": "0.363722712391914", "Black": "0.464412701675059", "Latine": "0.109043263796116", "Asian": "0.0384030418250951"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2016", "White": "0.546644383034924", "Black": "0.153625682045681", "Latine": "0.248774490005768", "Asian": "0.0269723539266751"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2016", "White": "0.531822278752142", "Black": "0.310898026850828", "Latine": "0.093339027276516", "Asian": "0.0386929820469118"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2016", "White": "0.221261034736451", "Black": "0.0159412610067362", "Latine": "0.104095251362039", "Asian": "0.452432769570973"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2016", "White": "0.824366956997041", "Black": "0.00542438537495396", "Latine": "0.122654087004052", "Asian": "0.0156659576743468"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2016", "White": "0.616269809434631", "Black": "0.140314848081938", "Latine": "0.170145870742572", "Asian": "0.0527433459367659"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2016", "White": "0.79540160466078", "Black": "0.0913755701936951", "Latine": "0.0675651166966403", "Asian": "0.0218923322337391"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2016", "White": "0.864638100126552", "Black": "0.0334935510431165", "Latine": "0.05712393526256", "Asian": "0.0252949810396106"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2016", "White": "0.76269335453063", "Black": "0.0581858219117535", "Latine": "0.116082714859101", "Asian": "0.0269285234457256"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2016", "White": "0.848687641622421", "Black": "0.0822662021458769", "Latine": "0.0342330155642111", "Asian": "0.0142820309517252"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2016", "White": "0.588635754878712", "Black": "0.322563378079513", "Latine": "0.0492613099695707", "Asian": "0.0166387350144158"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2016", "White": "0.933983938161999", "Black": "0.0158447861363191", "Latine": "0.0150539362618562", "Asian": "0.012326142582797"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2016", "White": "0.513877210253826", "Black": "0.293902530845863", "Latine": "0.0974922574735554", "Asian": "0.0623259874141665"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2016", "White": "0.723670760736566", "Black": "0.0677815318373695", "Latine": "0.114642422765505", "Asian": "0.0645179711636353"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2016", "White": "0.752764723064372", "Black": "0.136612108820241", "Latine": "0.0495493689755547", "Asian": "0.0295383902581509"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2016", "White": "0.805195769818288", "Black": "0.0577673501508709", "Latine": "0.0514142151960742", "Asian": "0.048565096218228"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2016", "White": "0.567973444203316", "Black": "0.378857412824059", "Latine": "0.0291528898935533", "Asian": "0.00915875192306019"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2016", "White": "0.796232069588052", "Black": "0.114713277531594", "Latine": "0.0400187099950763", "Asian": "0.0204209748892171"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2016", "White": "0.864700917008786", "Black": "0.00264263515328243", "Latine": "0.035199324713195", "Asian": "0.00877393239458236"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2016", "White": "0.797554527359636", "Black": "0.045286180809138", "Latine": "0.105906510144113", "Asian": "0.0236776368086682"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2016", "White": "0.497873511338892", "Black": "0.0852098836145409", "Latine": "0.284667853491326", "Asian": "0.0875057566891538"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2016", "White": "0.906256064146779", "Black": "0.0119413586236194", "Latine": "0.0355633409730656", "Asian": "0.0257580604919948"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2016", "White": "0.55559743121699", "Black": "0.127052036291925", "Latine": "0.199778656508285", "Asian": "0.0949699752998194"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2016", "White": "0.378920382601759", "Black": "0.0181483554899893", "Latine": "0.485489052217307", "Asian": "0.0154722575281774"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2016", "White": "0.554995725815915", "Black": "0.143915037151393", "Latine": "0.189876076263052", "Asian": "0.0841931966657971"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2016", "White": "0.634691490548536", "Black": "0.212170984551959", "Latine": "0.0917102042537993", "Asian": "0.0277066989080682"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2016", "White": "0.850972289838552", "Black": "0.0259013421676542", "Latine": "0.0321523893961763", "Asian": "0.00909159275047397"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2016", "White": "0.793550629035248", "Black": "0.123010256343584", "Latine": "0.0358470491691631", "Asian": "0.0201324686231448"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2016", "White": "0.661294675933419", "Black": "0.0704836754162864", "Latine": "0.103181777981787", "Asian": "0.0206274351284458"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2016", "White": "0.761489593779353", "Black": "0.0179495854978606", "Latine": "0.127646871293635", "Asian": "0.045259456230846"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2016", "White": "0.768847502473165", "Black": "0.106024322002418", "Latine": "0.0702687772987761", "Asian": "0.0330954699099132"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2016", "White": "0.727348626406393", "Black": "0.0567782315088799", "Latine": "0.149512601923845", "Asian": "0.035568984481639"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2016", "White": "0.637206444755709", "Black": "0.268567635648329", "Latine": "0.0550700356109176", "Asian": "0.0157841406344012"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2016", "White": "0.824557977662591", "Black": "0.0150510599061302", "Latine": "0.0372625234847837", "Asian": "0.0148777404691642"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2016", "White": "0.74167976456558", "Black": "0.166368474592682", "Latine": "0.0520360705160607", "Asian": "0.0182329668928616"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2016", "White": "0.425003362931437", "Black": "0.117494543580936", "Latine": "0.39068531159121", "Asian": "0.046452132457435"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2016", "White": "0.786736243276044", "Black": "0.0100281297593714", "Latine": "0.137857779371313", "Asian": "0.0327285801042666"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2016", "White": "0.931166485749143", "Black": "0.00901225436043254", "Latine": "0.0195134759539797", "Asian": "0.0123616301149227"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2016", "White": "0.622432299928862", "Black": "0.187290294785616", "Latine": "0.0903607167448425", "Asian": "0.0633834010476701"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2016", "White": "0.693706092206367", "Black": "0.0351088090010977", "Latine": "0.12423682766191", "Asian": "0.0861970362239298"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2016", "White": "0.919966227987299", "Black": "0.0380940002250011", "Latine": "0.0142832021372922", "Asian": "0.0079078063373859"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2016", "White": "0.816433220638035", "Black": "0.0612842764707481", "Latine": "0.0671525422027654", "Asian": "0.027439865893922"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2016", "White": "0.842787629739317", "Black": "0.00775233517961541", "Latine": "0.0971390313594682", "Asian": "0.00999998292060987"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2017", "White": "0.654429245251087", "Black": "0.269248024564147", "Latine": "0.0414046103315721", "Asian": "0.0136558881927616"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2017", "White": "0.606269304334309", "Black": "0.0266871227840145", "Latine": "0.0703789563324975", "Asian": "0.0687501267242952"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2017", "White": "0.547069454282689", "Black": "0.0411685981297755", "Latine": "0.31400487723534", "Asian": "0.0339612073081566"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2017", "White": "0.723200475055745", "Black": "0.152035147201708", "Latine": "0.0744451497347617", "Asian": "0.0187835417416292"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2017", "White": "0.36963321098526", "Black": "0.0547017472622177", "Latine": "0.39144426312465", "Asian": "0.14598011116419"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2017", "White": "0.681640097632417", "Black": "0.038658649289818", "Latine": "0.215165126550831", "Asian": "0.0323260249317212"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2017", "White": "0.667575575834461", "Black": "0.0982176499309957", "Latine": "0.161372159287261", "Asian": "0.0440258916488118"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2017", "White": "0.620553902066555", "Black": "0.21729444382648", "Latine": "0.0935745405893721", "Asian": "0.039958874731142"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2017", "White": "0.365197731320572", "Black": "0.453061506804309", "Latine": "0.110648556425908", "Asian": "0.0413301977601402"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2017", "White": "0.53820009149654", "Black": "0.153282771963935", "Latine": "0.255891995958903", "Asian": "0.0280395436610053"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2017", "White": "0.526002842547001", "Black": "0.312054629523004", "Latine": "0.096017605650346", "Asian": "0.0398930751294013"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2017", "White": "0.217546573191046", "Black": "0.0143414746227421", "Latine": "0.105466894751663", "Asian": "0.450130924710936"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2017", "White": "0.819049904394031", "Black": "0.00593030752913754", "Latine": "0.124805541010971", "Asian": "0.0143435163543577"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2017", "White": "0.612117163045247", "Black": "0.139467723187187", "Latine": "0.172371194771326", "Asian": "0.0541149629242191"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2017", "White": "0.792085819651894", "Black": "0.0918154657889266", "Latine": "0.0691916293500138", "Asian": "0.0218177547369675"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2017", "White": "0.858246037223381", "Black": "0.0316573900145309", "Latine": "0.0592912063441302", "Asian": "0.0278410826677975"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2017", "White": "0.758342507336628", "Black": "0.0553708168175528", "Latine": "0.11895824515477", "Asian": "0.0303759916762869"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2017", "White": "0.845914261833074", "Black": "0.0808600622919234", "Latine": "0.0349890855551931", "Asian": "0.0149259494826106"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2017", "White": "0.584548536579274", "Black": "0.321182119204591", "Latine": "0.0519913934385109", "Asian": "0.0181658733484575"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2017", "White": "0.933979685711655", "Black": "0.0120704510119342", "Latine": "0.0163753914007487", "Asian": "0.0113623178859007"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2017", "White": "0.506848692627463", "Black": "0.293364685137265", "Latine": "0.101351794569128", "Asian": "0.0645072012930223"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2017", "White": "0.715282283687077", "Black": "0.0699712339348895", "Latine": "0.118230233188368", "Asian": "0.0652977870115815"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2017", "White": "0.750702121224684", "Black": "0.137277284357013", "Latine": "0.0504805561681421", "Asian": "0.0311315316295586"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2017", "White": "0.79869745146062", "Black": "0.0640857539514178", "Latine": "0.0530735002616287", "Asian": "0.0483805024059437"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2017", "White": "0.565448879059013", "Black": "0.379642103146677", "Latine": "0.0287359672933213", "Asian": "0.00968499715156999"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2017", "White": "0.793970817524142", "Black": "0.113422486379396", "Latine": "0.0417773228307303", "Asian": "0.0217988553916132"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2017", "White": "0.862525499931937", "Black": "0.0047120732836868", "Latine": "0.037794635471155", "Asian": "0.00741842163631742"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2017", "White": "0.790704117961997", "Black": "0.0450601955339268", "Latine": "0.109319631097936", "Asian": "0.0257416893914616"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2017", "White": "0.487924940269289", "Black": "0.0892410005340157", "Latine": "0.288554284984285", "Asian": "0.089398436778174"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2017", "White": "0.903421594509959", "Black": "0.0137437211190092", "Latine": "0.037250660003947", "Asian": "0.0280288502712626"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2017", "White": "0.54849536579505", "Black": "0.12734380794977", "Latine": "0.204381940925047", "Asian": "0.0976480971266464"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2017", "White": "0.374370591024247", "Black": "0.0170128396078676", "Latine": "0.487490361913154", "Asian": "0.0134281896679709"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2017", "White": "0.550969981509264", "Black": "0.143306555528457", "Latine": "0.191962487126185", "Asian": "0.0867477650078977"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2017", "White": "0.630196529509796", "Black": "0.211237271642479", "Latine": "0.0936225807591416", "Asian": "0.0284728969002432"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2017", "White": "0.843709168604951", "Black": "0.0300770592261247", "Latine": "0.035650317119698", "Asian": "0.0172890137981157"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2017", "White": "0.789531924434553", "Black": "0.121852358201566", "Latine": "0.0372378900433148", "Asian": "0.0222216046528364"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2017", "White": "0.655844109590156", "Black": "0.0719620419327659", "Latine": "0.106431308740267", "Asian": "0.0223345300168106"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2017", "White": "0.756754408155305", "Black": "0.0178349010421997", "Latine": "0.130353656581963", "Asian": "0.0465825330647855"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2017", "White": "0.76393133688966", "Black": "0.107082818939963", "Latine": "0.0731218066060018", "Asian": "0.03433241417365"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2017", "White": "0.720784153848622", "Black": "0.0543751220934677", "Latine": "0.153779730644116", "Asian": "0.0369446575673413"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2017", "White": "0.636140578050697", "Black": "0.268284833379077", "Latine": "0.0568959007588814", "Asian": "0.0156361923258423"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2017", "White": "0.823297679798911", "Black": "0.0209022774260463", "Latine": "0.0355481299717363", "Asian": "0.0132740615362679"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2017", "White": "0.738989848695292", "Black": "0.166721213153575", "Latine": "0.0537985200679454", "Asian": "0.0180301203814661"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2017", "White": "0.418894337866543", "Black": "0.117876722211474", "Latine": "0.394303243190611", "Asian": "0.0476602457070929"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2017", "White": "0.782391572982814", "Black": "0.0113868154733024", "Latine": "0.140507886788231", "Asian": "0.0332316407749869"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2017", "White": "0.927505022792978", "Black": "0.0126976847850661", "Latine": "0.0196774829754176", "Asian": "0.0176747795663321"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2017", "White": "0.617006335286103", "Black": "0.187625649053957", "Latine": "0.0934238644064595", "Asian": "0.0642940630600636"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2017", "White": "0.685709185425419", "Black": "0.0351070783849777", "Latine": "0.126817930354861", "Asian": "0.0897006552887401"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2017", "White": "0.920099985846903", "Black": "0.0407603682448563", "Latine": "0.0126017632445727", "Asian": "0.00836134122896241"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2017", "White": "0.812355070319419", "Black": "0.0602586531614362", "Latine": "0.0679084038379545", "Asian": "0.0296953679270563"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2017", "White": "0.841010503784642", "Black": "0.0094887927983912", "Latine": "0.0998006266021077", "Asian": "0.00743809499149858"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2018", "White": "0.652810190776311", "Black": "0.267145961912661", "Latine": "0.043274873661764", "Asian": "0.013587306211641"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2018", "White": "0.602119771424852", "Black": "0.0305205318955627", "Latine": "0.0720453787301441", "Asian": "0.0690742814989192"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2018", "White": "0.543139190082723", "Black": "0.043764848404397", "Latine": "0.316078205756391", "Asian": "0.0339539904786154"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2018", "White": "0.720978822592553", "Black": "0.151878426915962", "Latine": "0.0764861927948703", "Asian": "0.0177190115550837"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2018", "White": "0.36649097524853", "Black": "0.0550700387250868", "Latine": "0.392863091770379", "Asian": "0.148024732383321"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2018", "White": "0.677537465999855", "Black": "0.0393320134757506", "Latine": "0.216731652914444", "Asian": "0.0325328624171373"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2018", "White": "0.662614322921405", "Black": "0.100321188804436", "Latine": "0.165217001873951", "Asian": "0.0462405515210634"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2018", "White": "0.618608291605104", "Black": "0.217416568528213", "Latine": "0.0951579400126761", "Asian": "0.0406991111189231"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2018", "White": "0.369811589354478", "Black": "0.444212084759878", "Latine": "0.112622160850161", "Asian": "0.0381134734609334"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2018", "White": "0.532536641419388", "Black": "0.153051939439395", "Latine": "0.261154332355603", "Asian": "0.0276522847555028"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2018", "White": "0.522404777804976", "Black": "0.312047892123894", "Latine": "0.0969663410008579", "Asian": "0.041875093576438"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2018", "White": "0.216531466936433", "Black": "0.0181021914253593", "Latine": "0.107127746673509", "Asian": "0.449592429659885"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2018", "White": "0.816768022948248", "Black": "0.00583169156679254", "Latine": "0.127002043087251", "Asian": "0.0174546005946843"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2018", "White": "0.609377070075692", "Black": "0.13779255761678", "Latine": "0.173410888244953", "Asian": "0.0560628298386008"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2018", "White": "0.78692916995797", "Black": "0.094376944708197", "Latine": "0.0706114187975334", "Asian": "0.0238469679214116"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2018", "White": "0.854459475087488", "Black": "0.0347766024691515", "Latine": "0.0606103331754403", "Asian": "0.0272870859862269"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2018", "White": "0.756108685870906", "Black": "0.0558874948051011", "Latine": "0.119692874144344", "Asian": "0.029102767979502"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2018", "White": "0.844781646772157", "Black": "0.078418862045089", "Latine": "0.0363803435769655", "Asian": "0.0151452353660212"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2018", "White": "0.583808335575833", "Black": "0.320507950895906", "Latine": "0.0513998134755143", "Asian": "0.0162438535117548"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2018", "White": "0.930684606441702", "Black": "0.0137178310883709", "Latine": "0.0164232922196885", "Asian": "0.0135377658763722"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2018", "White": "0.502419441052851", "Black": "0.294679314838124", "Latine": "0.104054334489877", "Asian": "0.0632002022930741"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2018", "White": "0.70755731834371", "Black": "0.0705250806373681", "Latine": "0.122709479315064", "Asian": "0.0676800444843866"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2018", "White": "0.74794053370802", "Black": "0.13706629158011", "Latine": "0.0514782288564879", "Asian": "0.0326288288765961"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2018", "White": "0.793938314924546", "Black": "0.0657906297410936", "Latine": "0.0540052277783332", "Asian": "0.0479450040713369"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2018", "White": "0.563903928639592", "Black": "0.379010423468038", "Latine": "0.0290792324202335", "Asian": "0.00927330380073195"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2018", "White": "0.792936923361188", "Black": "0.114665388711117", "Latine": "0.0409409883567194", "Asian": "0.0216508674188584"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2018", "White": "0.857900508799262", "Black": "0.00402520933253632", "Latine": "0.0394058203623253", "Asian": "0.00717967062190237"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2018", "White": "0.784804392132145", "Black": "0.0448605377790955", "Latine": "0.111501875322661", "Asian": "0.0232139858226021"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2018", "White": "0.484515514145832", "Black": "0.0882015243910477", "Latine": "0.29032043322023", "Asian": "0.0851379782177121"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2018", "White": "0.898328676432642", "Black": "0.0126200780000147", "Latine": "0.0388746765358557", "Asian": "0.0289683797671795"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2018", "White": "0.545941974648988", "Black": "0.128520562338076", "Latine": "0.206464485683368", "Asian": "0.0965796787794157"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2018", "White": "0.369158949866089", "Black": "0.0189130812416366", "Latine": "0.491053379071006", "Asian": "0.0163045449426084"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2018", "White": "0.55222339501128", "Black": "0.142683409025049", "Latine": "0.191949845588081", "Asian": "0.0847113547910577"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2018", "White": "0.626502125462989", "Black": "0.210678356873614", "Latine": "0.0957534077710856", "Asian": "0.0296777039221389"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2018", "White": "0.837783540351833", "Black": "0.0322138414923751", "Latine": "0.035393782472039", "Asian": "0.0201111203207043"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2018", "White": "0.785620134819096", "Black": "0.122765312493103", "Latine": "0.0386352915733702", "Asian": "0.0233855474025193"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2018", "White": "0.650888810495554", "Black": "0.0719868914622304", "Latine": "0.108893582908179", "Asian": "0.0207647374044497"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2018", "White": "0.750905394857629", "Black": "0.0185791773380807", "Latine": "0.132692217290948", "Asian": "0.0487599604172369"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2018", "White": "0.759406842788275", "Black": "0.105762915142117", "Latine": "0.0758770553116797", "Asian": "0.0352068312321485"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2018", "White": "0.71430841329216", "Black": "0.0576781753781985", "Latine": "0.159593876943011", "Asian": "0.034622605373044"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2018", "White": "0.635428658646804", "Black": "0.265235899889991", "Latine": "0.0578884044399363", "Asian": "0.0161518388506031"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2018", "White": "0.812690496296338", "Black": "0.0227433733642397", "Latine": "0.038849059490952", "Asian": "0.0125839487211457"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2018", "White": "0.736065530183855", "Black": "0.166595174896344", "Latine": "0.0551130648256059", "Asian": "0.0180144490185391"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2018", "White": "0.414076969616413", "Black": "0.118662964001095", "Latine": "0.39602785117124", "Asian": "0.0497343289255447"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2018", "White": "0.778236407838398", "Black": "0.011781639648161", "Latine": "0.142278412137528", "Asian": "0.0310011847123079"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2018", "White": "0.927285529754957", "Black": "0.0110650024988065", "Latine": "0.0193102655440932", "Asian": "0.0195322042666522"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2018", "White": "0.613223546069149", "Black": "0.188446743452006", "Latine": "0.095514215423557", "Asian": "0.0649217481040917"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2018", "White": "0.678221655076556", "Black": "0.0373491608023843", "Latine": "0.128702712235842", "Asian": "0.0936051332934603"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2018", "White": "0.919711246671894", "Black": "0.0391653265641544", "Latine": "0.013587088942936", "Asian": "0.00775321292346132"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2018", "White": "0.810231341578872", "Black": "0.0634921617842949", "Latine": "0.0693520743199357", "Asian": "0.0282415205257769"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2018", "White": "0.839465016088635", "Black": "0.00520825219779934", "Latine": "0.099617992269839", "Asian": "0.0111902128477144"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2019", "White": "0.650695007428845", "Black": "0.267949914188431", "Latine": "0.0446811613267703", "Asian": "0.0138373322646402"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2019", "White": "0.600266559131701", "Black": "0.0252287965880431", "Latine": "0.0714802233628827", "Asian": "0.0732654860603244"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2019", "White": "0.539941036311757", "Black": "0.0439695622181766", "Latine": "0.3175216181643", "Asian": "0.0341716816301554"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2019", "White": "0.719503652324671", "Black": "0.155442500573265", "Latine": "0.0768409744304136", "Asian": "0.0189733992002131"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2019", "White": "0.363324812172679", "Black": "0.0551819369920037", "Latine": "0.39423633542461", "Asian": "0.148744731472081"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2019", "White": "0.675504833005021", "Black": "0.0391358450882277", "Latine": "0.218268904843007", "Asian": "0.0329084368514202"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2019", "White": "0.656229919218285", "Black": "0.101619869592546", "Latine": "0.168259385569801", "Asian": "0.0462936083406469"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2019", "White": "0.613599393692928", "Black": "0.220162174818539", "Latine": "0.0962502207927177", "Asian": "0.0389262696094742"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2019", "White": "0.371545691173491", "Black": "0.442389574763832", "Latine": "0.112897078139679", "Asian": "0.0399136236820739"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2019", "White": "0.529547084034039", "Black": "0.152523378044903", "Latine": "0.263777464078269", "Asian": "0.0276889040963673"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2019", "White": "0.518391892269904", "Black": "0.315509516763154", "Latine": "0.0982348541637646", "Asian": "0.0409787761116798"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2019", "White": "0.21552866360801", "Black": "0.0182269301179768", "Latine": "0.105881746372553", "Asian": "0.470424586403291"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2019", "White": "0.815996620156514", "Black": "0.00679773819083245", "Latine": "0.128428456715341", "Asian": "0.0133654903431045"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2019", "White": "0.606919952546678", "Black": "0.138921627759736", "Latine": "0.174993160020174", "Asian": "0.0559639376219093"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2019", "White": "0.783390736397613", "Black": "0.0939231180685001", "Latine": "0.0720896037398664", "Asian": "0.0251053924419274"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2019", "White": "0.851509158275411", "Black": "0.040635231547953", "Latine": "0.0624033698142989", "Asian": "0.023477767529722"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2019", "White": "0.753849053002869", "Black": "0.0569231466295772", "Latine": "0.121855728562043", "Asian": "0.0283972136199531"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2019", "White": "0.841880101789007", "Black": "0.0818041069702281", "Latine": "0.0375334094505126", "Asian": "0.0165441830680088"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2019", "White": "0.582722959976286", "Black": "0.322124404738089", "Latine": "0.0538840826244398", "Asian": "0.0169050295625059"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2019", "White": "0.928184691105272", "Black": "0.0142834612397449", "Latine": "0.0178498629680437", "Asian": "0.0120553900723993"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2019", "White": "0.498533663706978", "Black": "0.297575128025301", "Latine": "0.10637579230128", "Asian": "0.0631378108004393"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2019", "White": "0.703104663139066", "Black": "0.0708146227865262", "Latine": "0.123851088639352", "Asian": "0.0686290597189439"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2019", "White": "0.746732330301716", "Black": "0.135673916228099", "Latine": "0.0526971598772266", "Asian": "0.0325849263687264"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2019", "White": "0.789955621217838", "Black": "0.0648129168711717", "Latine": "0.0553947491609382", "Asian": "0.0497323229600797"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2019", "White": "0.563062198834803", "Black": "0.378685005354235", "Latine": "0.0300888833186779", "Asian": "0.00986644149872873"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2019", "White": "0.790860764476585", "Black": "0.114923873648701", "Latine": "0.0430009117825904", "Asian": "0.0217525973420788"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2019", "White": "0.859001588730307", "Black": "0.00592733009100112", "Latine": "0.0377739811261085", "Asian": "0.00781733905450898"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2019", "White": "0.783292356111017", "Black": "0.0481961406280371", "Latine": "0.113578417789835", "Asian": "0.0244777730447765"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2019", "White": "0.478515698555528", "Black": "0.0937218764244408", "Latine": "0.292378697702324", "Asian": "0.0889308853187955"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2019", "White": "0.896324292441556", "Black": "0.0140478381067742", "Latine": "0.0399621684313799", "Asian": "0.0270800192099645"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2019", "White": "0.543062915789912", "Black": "0.126638588005886", "Latine": "0.209066682878885", "Asian": "0.0957660216680796"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2019", "White": "0.367913644841806", "Black": "0.0193806934184905", "Latine": "0.492641030813671", "Asian": "0.0165278141422119"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2019", "White": "0.550593076506661", "Black": "0.141886362090725", "Latine": "0.192676703252428", "Asian": "0.0855546190232215"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2019", "White": "0.624556401340798", "Black": "0.211388943871922", "Latine": "0.0976717005699039", "Asian": "0.0294170031437582"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2019", "White": "0.837618199044172", "Black": "0.0265870755922746", "Latine": "0.0401122218402177", "Asian": "0.0183685841834391"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2019", "White": "0.783571618003097", "Black": "0.12336792396335", "Latine": "0.039909146127589", "Asian": "0.0232790377360105"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2019", "White": "0.648789945642766", "Black": "0.0708825007815321", "Latine": "0.110710692597949", "Asian": "0.0217512334560956"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2019", "White": "0.748985297091782", "Black": "0.0179750420663972", "Latine": "0.134546796066232", "Asian": "0.0487327683067958"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2019", "White": "0.756211398088219", "Black": "0.106580547757071", "Latine": "0.0777031600323981", "Asian": "0.0354369934234438"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2019", "White": "0.707267871858602", "Black": "0.0582058429562727", "Latine": "0.163739273014581", "Asian": "0.0337477026245067"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2019", "White": "0.635069844625279", "Black": "0.263723329747972", "Latine": "0.0580125444916925", "Asian": "0.0183791525417803"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2019", "White": "0.815766300913685", "Black": "0.0229161744807886", "Latine": "0.0375964072032275", "Asian": "0.0139522686142344"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2019", "White": "0.732734295538523", "Black": "0.166274720778823", "Latine": "0.0570645878989172", "Asian": "0.0184079363038634"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2019", "White": "0.411432230667521", "Black": "0.118813565278461", "Latine": "0.397553431813298", "Asian": "0.0498077640751802"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2019", "White": "0.776577859098591", "Black": "0.0106074377767893", "Latine": "0.144253293399352", "Asian": "0.0303001474130354"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2019", "White": "0.924533926078825", "Black": "0.0114328938490903", "Latine": "0.0200452251562127", "Asian": "0.0163384290428197"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2019", "White": "0.610784651759313", "Black": "0.191001273619097", "Latine": "0.0970003112874566", "Asian": "0.0660065310615558"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2019", "White": "0.673371378954373", "Black": "0.0392933951928149", "Latine": "0.130249630559484", "Asian": "0.0945737517257301"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2019", "White": "0.920463555723945", "Black": "0.0364691066078843", "Latine": "0.0146902011944333", "Asian": "0.00800827164289536"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2019", "White": "0.808389927648815", "Black": "0.0630612558253129", "Latine": "0.070725232780655", "Asian": "0.0302243013832359"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2019", "White": "0.837612892412904", "Black": "0.00974326101192379", "Latine": "0.102011372609324", "Asian": "0.00774070036059914"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2020", "White": "0.640879743342171", "Black": "0.253218633897953", "Latine": "0.0450532567433521", "Asian": "0.0134640539074074"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2020", "White": "0.568809211324459", "Black": "0.0296732141478532", "Latine": "0.0741416770521997", "Asian": "0.063257546514321"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2020", "White": "0.527129377908927", "Black": "0.0435226089799289", "Latine": "0.320884270929222", "Asian": "0.0343953786229858"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2020", "White": "0.692128196691139", "Black": "0.14332881585298", "Latine": "0.0774339608151062", "Asian": "0.0174155819306965"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2020", "White": "0.349647877130032", "Black": "0.0535269080802754", "Latine": "0.395544911042007", "Asian": "0.151935843802036"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2020", "White": "0.656542025468309", "Black": "0.037811545541667", "Latine": "0.220107140641051", "Asian": "0.0347083278751818"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2020", "White": "0.642632262498547", "Black": "0.0979010043533019", "Latine": "0.173450978608572", "Asian": "0.0448230632354584"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2020", "White": "0.601668657267247", "Black": "0.208950199837372", "Latine": "0.0979385624281407", "Asian": "0.0391391277722239"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2020", "White": "0.367930493298859", "Black": "0.423871193559678", "Latine": "0.108869556381045", "Asian": "0.0444959747987399"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2020", "White": "0.520923188427625", "Black": "0.146510487630074", "Latine": "0.264050869386494", "Asian": "0.0272606473350484"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2020", "White": "0.504557651289375", "Black": "0.304195651116861", "Latine": "0.0974853740267904", "Asian": "0.0434606068882312"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2020", "White": "0.20617784361317", "Black": "0.0156913734017125", "Latine": "0.109792036221459", "Asian": "0.450708906098879"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2020", "White": "0.792842122829536", "Black": "0.00550705964518368", "Latine": "0.131523581907759", "Asian": "0.013898227760587"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2020", "White": "0.596050475576317", "Black": "0.133599295431876", "Latine": "0.175926969134855", "Asian": "0.0551746877165497"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2020", "White": "0.770353168339564", "Black": "0.0897785150264668", "Latine": "0.0726883061920255", "Asian": "0.0229015193221115"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2020", "White": "0.835694915029473", "Black": "0.0393576952452941", "Latine": "0.0615403656970589", "Asian": "0.0262513036139351"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2020", "White": "0.742847691200165", "Black": "0.0522457234925097", "Latine": "0.122967673374242", "Asian": "0.0297648349388091"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2020", "White": "0.832318634665371", "Black": "0.0693397649824314", "Latine": "0.0378014249188133", "Asian": "0.0146338183799204"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2020", "White": "0.57382863285358", "Black": "0.314059295838197", "Latine": "0.0544342472028759", "Asian": "0.0146188500582761"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2020", "White": "0.911416956678267", "Black": "0.0145265810632425", "Latine": "0.0157551302052082", "Asian": "0.0108754350174007"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2020", "White": "0.487698305461944", "Black": "0.286961217174286", "Latine": "0.109735314533393", "Asian": "0.0656313916089104"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2020", "White": "0.6919250715436", "Black": "0.0642732581797324", "Latine": "0.126220361104595", "Asian": "0.0702915230318384"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2020", "White": "0.732118213524418", "Black": "0.132948737732732", "Latine": "0.0529703298829602", "Asian": "0.0321477573107878"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2020", "White": "0.772374572388231", "Black": "0.0658906608791441", "Latine": "0.0558367620620444", "Asian": "0.046993347128072"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2020", "White": "0.562481265521642", "Black": "0.355785885087966", "Latine": "0.029519434350997", "Asian": "0.0101512050423382"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2020", "White": "0.769260386860181", "Black": "0.108787787887229", "Latine": "0.041881500613904", "Asian": "0.0209769482444163"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2020", "White": "0.836339810187058", "Black": "0.00273109459544027", "Latine": "0.0429073267870503", "Asian": "0.00643077506484482"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2020", "White": "0.76807335664991", "Black": "0.0455584121066113", "Latine": "0.114585214652275", "Asian": "0.0270836637910952"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2020", "White": "0.46164990749596", "Black": "0.089555493246224", "Latine": "0.294440390118303", "Asian": "0.0835795993622506"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2020", "White": "0.881488597821913", "Black": "0.0162144681149285", "Latine": "0.0406686688674328", "Asian": "0.0239205563334321"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2020", "White": "0.531385282972094", "Black": "0.123207369330106", "Latine": "0.210862304512704", "Asian": "0.0966121531824358"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2020", "White": "0.365279638698123", "Black": "0.0165793149732384", "Latine": "0.490064626152655", "Asian": "0.0137261062184551"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2020", "White": "0.537801263005385", "Black": "0.13463347671011", "Latine": "0.194182980628392", "Asian": "0.0869675788429666"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2020", "White": "0.616841253641107", "Black": "0.202488543758264", "Latine": "0.0987677828686049", "Asian": "0.0290210999458947"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2020", "White": "0.819260304993971", "Black": "0.0332795839297593", "Latine": "0.0409273936962315", "Asian": "0.0175418110443872"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2020", "White": "0.770893805022986", "Black": "0.114742169704347", "Latine": "0.0411080529545836", "Asian": "0.0227274806355938"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2020", "White": "0.632193722232905", "Black": "0.0697189763978133", "Latine": "0.115592027550452", "Asian": "0.023362443779047"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2020", "White": "0.730971237366279", "Black": "0.016840239779515", "Latine": "0.134344149099812", "Asian": "0.0476900479790414"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2020", "White": "0.741647770950978", "Black": "0.101989004075416", "Latine": "0.0817473866760649", "Asian": "0.0342664259216375"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2020", "White": "0.692110154154929", "Black": "0.0570277396185497", "Latine": "0.165874875734552", "Asian": "0.0364057828300387"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2020", "White": "0.632449842228709", "Black": "0.248511642248038", "Latine": "0.0565194364719363", "Asian": "0.015002653809751"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2020", "White": "0.786528954587522", "Black": "0.0204666303257744", "Latine": "0.0399889871616399", "Asian": "0.0120201371297403"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2020", "White": "0.724220886932703", "Black": "0.151200190234614", "Latine": "0.0554883279399273", "Asian": "0.0192689253698206"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2020", "White": "0.400827862008736", "Black": "0.112198954507992", "Latine": "0.399016822311088", "Asian": "0.0501270524642482"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2020", "White": "0.763724958100148", "Black": "0.01259262072548", "Latine": "0.144061676092091", "Asian": "0.0329171118015466"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2020", "White": "0.901776017990832", "Black": "0.016208086263731", "Latine": "0.0174254146124251", "Asian": "0.0200122373534"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2020", "White": "0.596273806067131", "Black": "0.183858732562143", "Latine": "0.098341416622914", "Asian": "0.067675236109462"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2020", "White": "0.650241451878578", "Black": "0.0379952017520737", "Latine": "0.133455184112335", "Asian": "0.0983175732355097"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2020", "White": "0.901547112024046", "Black": "0.0260208805950311", "Latine": "0.0155090971438018", "Asian": "0.00867828089728253"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2020", "White": "0.794540975570151", "Black": "0.0611642040866804", "Latine": "0.0729716387932827", "Asian": "0.0284872732728968"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2020", "White": "0.818732622173628", "Black": "0.00606232600410539", "Latine": "0.105571873035881", "Asian": "0.00751784138016286"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.8073, 32.799]}, "properties": {"STATE": "Alabama", "YEAR": "2021", "White": "0.640894807551851", "Black": "0.257738234484691", "Latine": "0.0472243667851418", "Asian": "0.013605887604003"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-152.2683, 61.385]}, "properties": {"STATE": "Alaska", "YEAR": "2021", "White": "0.578455873220386", "Black": "0.0297540649102669", "Latine": "0.0715189450136691", "Asian": "0.0811617188022487"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.3877, 33.7712]}, "properties": {"STATE": "Arizona", "YEAR": "2021", "White": "0.520256679341579", "Black": "0.0429394490288767", "Latine": "0.323149242006532", "Asian": "0.0336976843776439"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.3809, 34.9513]}, "properties": {"STATE": "Arkansas", "YEAR": "2021", "White": "0.68108500934105", "Black": "0.147231013939365", "Latine": "0.0820822693216643", "Asian": "0.0179910644501074"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-119.7462, 36.17]}, "properties": {"STATE": "California", "YEAR": "2021", "White": "0.342451326826484", "Black": "0.0528625482812049", "Latine": "0.40154067110123", "Asian": "0.152155180015534"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-105.3272, 39.0646]}, "properties": {"STATE": "Colorado", "YEAR": "2021", "White": "0.651838957865091", "Black": "0.0371951881507257", "Latine": "0.222645842642267", "Asian": "0.0323165468269561"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7622, 41.5834]}, "properties": {"STATE": "Connecticut", "YEAR": "2021", "White": "0.62665184156743", "Black": "0.0992775953607683", "Latine": "0.176314768400351", "Asian": "0.0472196421286128"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-75.5148, 39.3498]}, "properties": {"STATE": "Delaware", "YEAR": "2021", "White": "0.593188649609721", "Black": "0.206682586128541", "Latine": "0.101276281064876", "Asian": "0.0407650510671886"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0, 0]}, "properties": {"STATE": "District of Columbia", "YEAR": "2021", "White": "0.364445936870383", "Black": "0.424917543466905", "Latine": "0.114307887471084", "Asian": "0.0400388030743974"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-81.717, 27.8333]}, "properties": {"STATE": "Florida", "YEAR": "2021", "White": "0.511344637431082", "Black": "0.14603105036617", "Latine": "0.267690038826272", "Asian": "0.028046619073172"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-83.6487, 32.9866]}, "properties": {"STATE": "Georgia", "YEAR": "2021", "White": "0.502248238494028", "Black": "0.304430381739414", "Latine": "0.100204489698938", "Asian": "0.0432176626357022"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-157.5311, 21.1098]}, "properties": {"STATE": "Hawaii", "YEAR": "2021", "White": "0.206359391572838", "Black": "0.0173403267170891", "Latine": "0.111569952682975", "Asian": "0.451093369442539"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-114.5103, 44.2394]}, "properties": {"STATE": "Idaho", "YEAR": "2021", "White": "0.787714704909142", "Black": "0.00757211102185622", "Latine": "0.132267850933468", "Asian": "0.0146155315075887"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.0022, 40.3363]}, "properties": {"STATE": "Illinois", "YEAR": "2021", "White": "0.589036993264159", "Black": "0.134252153400683", "Latine": "0.179755717352108", "Asian": "0.0566593344465429"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.2604, 39.8647]}, "properties": {"STATE": "Indiana", "YEAR": "2021", "White": "0.765081762595715", "Black": "0.0883025748660921", "Latine": "0.07614401148401", "Asian": "0.0234284971242223"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.214, 42.0046]}, "properties": {"STATE": "Iowa", "YEAR": "2021", "White": "0.830598303393057", "Black": "0.0355327882586056", "Latine": "0.0662498485004599", "Asian": "0.0238512733321036"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.8005, 38.5111]}, "properties": {"STATE": "Kansas", "YEAR": "2021", "White": "0.732764325549601", "Black": "0.0500483544164041", "Latine": "0.127266166016148", "Asian": "0.0306432057444638"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.6514, 37.669]}, "properties": {"STATE": "Kentucky", "YEAR": "2021", "White": "0.826942822028858", "Black": "0.0700087417511089", "Latine": "0.0390757605123881", "Asian": "0.0152277667464852"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-91.8749, 31.1801]}, "properties": {"STATE": "Louisiana", "YEAR": "2021", "White": "0.569643431392458", "Black": "0.310046589059324", "Latine": "0.0555065724894232", "Asian": "0.0177563074077751"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-69.3977, 44.6074]}, "properties": {"STATE": "Maine", "YEAR": "2021", "White": "0.897572375818639", "Black": "0.0150206194657376", "Latine": "0.0185812029466998", "Asian": "0.0123330566581672"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-76.7902, 39.0724]}, "properties": {"STATE": "Maryland", "YEAR": "2021", "White": "0.478455195341411", "Black": "0.290436420713987", "Latine": "0.110999623852153", "Asian": "0.0664433785570424"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5314, 42.2373]}, "properties": {"STATE": "Massachusetts", "YEAR": "2021", "White": "0.675376961978306", "Black": "0.0618207765719557", "Latine": "0.128423847302176", "Asian": "0.0701794473452992"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-84.5603, 43.3504]}, "properties": {"STATE": "Michigan", "YEAR": "2021", "White": "0.728785070179909", "Black": "0.13274789467238", "Latine": "0.0556398881642486", "Asian": "0.0318063885590924"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-93.9196, 45.7326]}, "properties": {"STATE": "Minnesota", "YEAR": "2021", "White": "0.767286272709592", "Black": "0.0680246137025856", "Latine": "0.0583124685714486", "Asian": "0.050480342152893"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6812, 32.7673]}, "properties": {"STATE": "Mississippi", "YEAR": "2021", "White": "0.554109625029449", "Black": "0.360546650553481", "Latine": "0.0321356355075399", "Asian": "0.00861637341459983"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-92.302, 38.4623]}, "properties": {"STATE": "Missouri", "YEAR": "2021", "White": "0.766815111150165", "Black": "0.107281604789219", "Latine": "0.0457150537102718", "Asian": "0.0209549418654136"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-110.3261, 46.9048]}, "properties": {"STATE": "Montana", "YEAR": "2021", "White": "0.835424456496639", "Black": "0.00418285004315064", "Latine": "0.0429314905489685", "Asian": "0.00780605485428849"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-98.2883, 41.1289]}, "properties": {"STATE": "Nebraska", "YEAR": "2021", "White": "0.764610234191513", "Black": "0.0441433789005608", "Latine": "0.119042599348574", "Asian": "0.0217732719795161"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1219, 38.4199]}, "properties": {"STATE": "Nevada", "YEAR": "2021", "White": "0.451273556444659", "Black": "0.0874417261372568", "Latine": "0.298886987908044", "Asian": "0.0888005086528556"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5653, 43.4108]}, "properties": {"STATE": "New Hampshire", "YEAR": "2021", "White": "0.874545713726213", "Black": "0.0120627044648205", "Latine": "0.042920333594434", "Asian": "0.0268475268396074"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.5089, 40.314]}, "properties": {"STATE": "New Jersey", "YEAR": "2021", "White": "0.52103477559935", "Black": "0.124316374109352", "Latine": "0.214886054258438", "Asian": "0.0989689364452641"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-106.2371, 34.8375]}, "properties": {"STATE": "New Mexico", "YEAR": "2021", "White": "0.349119537666887", "Black": "0.0178153077896305", "Latine": "0.500754060845692", "Asian": "0.0145722081198482"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-74.9384, 42.1497]}, "properties": {"STATE": "New York", "YEAR": "2021", "White": "0.534307848597642", "Black": "0.134057101379705", "Latine": "0.194940258106597", "Asian": "0.0866884725699291"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-79.8431, 35.6411]}, "properties": {"STATE": "North Carolina", "YEAR": "2021", "White": "0.60904770488786", "Black": "0.199079968632839", "Latine": "0.101454418006282", "Asian": "0.0311977012579278"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.793, 47.5362]}, "properties": {"STATE": "North Dakota", "YEAR": "2021", "White": "0.823428152598626", "Black": "0.0286677299638169", "Latine": "0.0414737504968075", "Asian": "0.0175611782984149"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.7755, 40.3736]}, "properties": {"STATE": "Ohio", "YEAR": "2021", "White": "0.76555483748453", "Black": "0.117351273771506", "Latine": "0.0428993438634257", "Asian": "0.0241683861746549"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-96.9247, 35.5376]}, "properties": {"STATE": "Oklahoma", "YEAR": "2021", "White": "0.629773350433786", "Black": "0.0676324091546789", "Latine": "0.117208505711202", "Asian": "0.024100250862945"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.1269, 44.5672]}, "properties": {"STATE": "Oregon", "YEAR": "2021", "White": "0.719855963807256", "Black": "0.0188462267628007", "Latine": "0.140516773410297", "Asian": "0.0475719798264548"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.264, 40.5773]}, "properties": {"STATE": "Pennsylvania", "YEAR": "2021", "White": "0.736520036630511", "Black": "0.100153609333375", "Latine": "0.0833963537337389", "Asian": "0.0365882405938388"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-71.5101, 41.6772]}, "properties": {"STATE": "Rhode Island", "YEAR": "2021", "White": "0.689416854537655", "Black": "0.0451784850448609", "Latine": "0.171092815874262", "Asian": "0.0321044897363113"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9066, 33.8191]}, "properties": {"STATE": "South Carolina", "YEAR": "2021", "White": "0.625974313701125", "Black": "0.248297678253725", "Latine": "0.063493687273694", "Asian": "0.016424165888834"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-99.4632, 44.2853]}, "properties": {"STATE": "South Dakota", "YEAR": "2021", "White": "0.799078822751559", "Black": "0.0195470952985115", "Latine": "0.0416897482175086", "Asian": "0.0163484390915102"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-86.7489, 35.7449]}, "properties": {"STATE": "Tennessee", "YEAR": "2021", "White": "0.720456048828868", "Black": "0.153141163473314", "Latine": "0.0603272901291401", "Asian": "0.0174190971522324"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-97.6475, 31.106]}, "properties": {"STATE": "Texas", "YEAR": "2021", "White": "0.393673741084758", "Black": "0.116250672540967", "Latine": "0.401550585596199", "Asian": "0.0517647336128178"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-111.8535, 40.1135]}, "properties": {"STATE": "Utah", "YEAR": "2021", "White": "0.758958949662595", "Black": "0.0107226686838577", "Latine": "0.147926512331578", "Asian": "0.0320958065893244"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-72.7093, 44.0407]}, "properties": {"STATE": "Vermont", "YEAR": "2021", "White": "0.904059978003935", "Black": "0.0108896014374894", "Latine": "0.0205353408615642", "Asian": "0.0188608516504794"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.2057, 37.768]}, "properties": {"STATE": "Virginia", "YEAR": "2021", "White": "0.592352776595604", "Black": "0.180198521824233", "Latine": "0.101831184709024", "Asian": "0.0678540161999029"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-121.5708, 47.3917]}, "properties": {"STATE": "Washington", "YEAR": "2021", "White": "0.643406792775833", "Black": "0.0385668534165722", "Latine": "0.136686664878251", "Asian": "0.0993979344312967"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-80.9696, 38.468]}, "properties": {"STATE": "West Virginia", "YEAR": "2021", "White": "0.902605163663326", "Black": "0.0283444543592982", "Latine": "0.0175135827576517", "Asian": "0.00814152204285124"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-89.6385, 44.2563]}, "properties": {"STATE": "Wisconsin", "YEAR": "2021", "White": "0.790057612839278", "Black": "0.0609705918070635", "Latine": "0.0748710800779117", "Asian": "0.0299580658314207"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-107.2085, 42.7475]}, "properties": {"STATE": "Wyoming", "YEAR": "2021", "White": "0.813366551313659", "Black": "0.0095766607982336", "Latine": "0.106127646193955", "Asian": "0.0075206935693146"}}]}
+{
+    "type": "FeatureCollection",
+    "features": [{
+        
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.8073, 32.799]
+        },
+        "properties": {
+            "STATE": "Alabama",
+            "YEAR": "2021",
+            "White": "0.640894807551851",
+            "Black": "0.257738234484691",
+            "Latine": "0.0472243667851418",
+            "Asian": "0.013605887604003"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-152.2683, 61.385]
+        },
+        "properties": {
+            "STATE": "Alaska",
+            "YEAR": "2021",
+            "White": "0.578455873220386",
+            "Black": "0.0297540649102669",
+            "Latine": "0.0715189450136691",
+            "Asian": "0.0811617188022487"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.3877, 33.7712]
+        },
+        "properties": {
+            "STATE": "Arizona",
+            "YEAR": "2021",
+            "White": "0.520256679341579",
+            "Black": "0.0429394490288767",
+            "Latine": "0.323149242006532",
+            "Asian": "0.0336976843776439"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.3809, 34.9513]
+        },
+        "properties": {
+            "STATE": "Arkansas",
+            "YEAR": "2021",
+            "White": "0.68108500934105",
+            "Black": "0.147231013939365",
+            "Latine": "0.0820822693216643",
+            "Asian": "0.0179910644501074"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.7462, 36.17]
+        },
+        "properties": {
+            "STATE": "California",
+            "YEAR": "2021",
+            "White": "0.342451326826484",
+            "Black": "0.0528625482812049",
+            "Latine": "0.40154067110123",
+            "Asian": "0.152155180015534"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-105.3272, 39.0646]
+        },
+        "properties": {
+            "STATE": "Colorado",
+            "YEAR": "2021",
+            "White": "0.651838957865091",
+            "Black": "0.0371951881507257",
+            "Latine": "0.222645842642267",
+            "Asian": "0.0323165468269561"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.7622, 41.5834]
+        },
+        "properties": {
+            "STATE": "Connecticut",
+            "YEAR": "2021",
+            "White": "0.62665184156743",
+            "Black": "0.0992775953607683",
+            "Latine": "0.176314768400351",
+            "Asian": "0.0472196421286128"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.5148, 39.3498]
+        },
+        "properties": {
+            "STATE": "Delaware",
+            "YEAR": "2021",
+            "White": "0.593188649609721",
+            "Black": "0.206682586128541",
+            "Latine": "0.101276281064876",
+            "Asian": "0.0407650510671886"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0, 0]
+        },
+        "properties": {
+            "STATE": "District of Columbia",
+            "YEAR": "2021",
+            "White": "0.364445936870383",
+            "Black": "0.424917543466905",
+            "Latine": "0.114307887471084",
+            "Asian": "0.0400388030743974"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.717, 27.8333]
+        },
+        "properties": {
+            "STATE": "Florida",
+            "YEAR": "2021",
+            "White": "0.511344637431082",
+            "Black": "0.14603105036617",
+            "Latine": "0.267690038826272",
+            "Asian": "0.028046619073172"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.6487, 32.9866]
+        },
+        "properties": {
+            "STATE": "Georgia",
+            "YEAR": "2021",
+            "White": "0.502248238494028",
+            "Black": "0.304430381739414",
+            "Latine": "0.100204489698938",
+            "Asian": "0.0432176626357022"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.5311, 21.1098]
+        },
+        "properties": {
+            "STATE": "Hawaii",
+            "YEAR": "2021",
+            "White": "0.206359391572838",
+            "Black": "0.0173403267170891",
+            "Latine": "0.111569952682975",
+            "Asian": "0.451093369442539"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.5103, 44.2394]
+        },
+        "properties": {
+            "STATE": "Idaho",
+            "YEAR": "2021",
+            "White": "0.787714704909142",
+            "Black": "0.00757211102185622",
+            "Latine": "0.132267850933468",
+            "Asian": "0.0146155315075887"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.0022, 40.3363]
+        },
+        "properties": {
+            "STATE": "Illinois",
+            "YEAR": "2021",
+            "White": "0.589036993264159",
+            "Black": "0.134252153400683",
+            "Latine": "0.179755717352108",
+            "Asian": "0.0566593344465429"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.2604, 39.8647]
+        },
+        "properties": {
+            "STATE": "Indiana",
+            "YEAR": "2021",
+            "White": "0.765081762595715",
+            "Black": "0.0883025748660921",
+            "Latine": "0.07614401148401",
+            "Asian": "0.0234284971242223"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.214, 42.0046]
+        },
+        "properties": {
+            "STATE": "Iowa",
+            "YEAR": "2021",
+            "White": "0.830598303393057",
+            "Black": "0.0355327882586056",
+            "Latine": "0.0662498485004599",
+            "Asian": "0.0238512733321036"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.8005, 38.5111]
+        },
+        "properties": {
+            "STATE": "Kansas",
+            "YEAR": "2021",
+            "White": "0.732764325549601",
+            "Black": "0.0500483544164041",
+            "Latine": "0.127266166016148",
+            "Asian": "0.0306432057444638"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.6514, 37.669]
+        },
+        "properties": {
+            "STATE": "Kentucky",
+            "YEAR": "2021",
+            "White": "0.826942822028858",
+            "Black": "0.0700087417511089",
+            "Latine": "0.0390757605123881",
+            "Asian": "0.0152277667464852"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-91.8749, 31.1801]
+        },
+        "properties": {
+            "STATE": "Louisiana",
+            "YEAR": "2021",
+            "White": "0.569643431392458",
+            "Black": "0.310046589059324",
+            "Latine": "0.0555065724894232",
+            "Asian": "0.0177563074077751"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-69.3977, 44.6074]
+        },
+        "properties": {
+            "STATE": "Maine",
+            "YEAR": "2021",
+            "White": "0.897572375818639",
+            "Black": "0.0150206194657376",
+            "Latine": "0.0185812029466998",
+            "Asian": "0.0123330566581672"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.7902, 39.0724]
+        },
+        "properties": {
+            "STATE": "Maryland",
+            "YEAR": "2021",
+            "White": "0.478455195341411",
+            "Black": "0.290436420713987",
+            "Latine": "0.110999623852153",
+            "Asian": "0.0664433785570424"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.5314, 42.2373]
+        },
+        "properties": {
+            "STATE": "Massachusetts",
+            "YEAR": "2021",
+            "White": "0.675376961978306",
+            "Black": "0.0618207765719557",
+            "Latine": "0.128423847302176",
+            "Asian": "0.0701794473452992"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.5603, 43.3504]
+        },
+        "properties": {
+            "STATE": "Michigan",
+            "YEAR": "2021",
+            "White": "0.728785070179909",
+            "Black": "0.13274789467238",
+            "Latine": "0.0556398881642486",
+            "Asian": "0.0318063885590924"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.9196, 45.7326]
+        },
+        "properties": {
+            "STATE": "Minnesota",
+            "YEAR": "2021",
+            "White": "0.767286272709592",
+            "Black": "0.0680246137025856",
+            "Latine": "0.0583124685714486",
+            "Asian": "0.050480342152893"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.6812, 32.7673]
+        },
+        "properties": {
+            "STATE": "Mississippi",
+            "YEAR": "2021",
+            "White": "0.554109625029449",
+            "Black": "0.360546650553481",
+            "Latine": "0.0321356355075399",
+            "Asian": "0.00861637341459983"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.302, 38.4623]
+        },
+        "properties": {
+            "STATE": "Missouri",
+            "YEAR": "2021",
+            "White": "0.766815111150165",
+            "Black": "0.107281604789219",
+            "Latine": "0.0457150537102718",
+            "Asian": "0.0209549418654136"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-110.3261, 46.9048]
+        },
+        "properties": {
+            "STATE": "Montana",
+            "YEAR": "2021",
+            "White": "0.835424456496639",
+            "Black": "0.00418285004315064",
+            "Latine": "0.0429314905489685",
+            "Asian": "0.00780605485428849"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.2883, 41.1289]
+        },
+        "properties": {
+            "STATE": "Nebraska",
+            "YEAR": "2021",
+            "White": "0.764610234191513",
+            "Black": "0.0441433789005608",
+            "Latine": "0.119042599348574",
+            "Asian": "0.0217732719795161"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.1219, 38.4199]
+        },
+        "properties": {
+            "STATE": "Nevada",
+            "YEAR": "2021",
+            "White": "0.451273556444659",
+            "Black": "0.0874417261372568",
+            "Latine": "0.298886987908044",
+            "Asian": "0.0888005086528556"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.5653, 43.4108]
+        },
+        "properties": {
+            "STATE": "New Hampshire",
+            "YEAR": "2021",
+            "White": "0.874545713726213",
+            "Black": "0.0120627044648205",
+            "Latine": "0.042920333594434",
+            "Asian": "0.0268475268396074"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.5089, 40.314]
+        },
+        "properties": {
+            "STATE": "New Jersey",
+            "YEAR": "2021",
+            "White": "0.52103477559935",
+            "Black": "0.124316374109352",
+            "Latine": "0.214886054258438",
+            "Asian": "0.0989689364452641"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.2371, 34.8375]
+        },
+        "properties": {
+            "STATE": "New Mexico",
+            "YEAR": "2021",
+            "White": "0.349119537666887",
+            "Black": "0.0178153077896305",
+            "Latine": "0.500754060845692",
+            "Asian": "0.0145722081198482"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.9384, 42.1497]
+        },
+        "properties": {
+            "STATE": "New York",
+            "YEAR": "2021",
+            "White": "0.534307848597642",
+            "Black": "0.134057101379705",
+            "Latine": "0.194940258106597",
+            "Asian": "0.0866884725699291"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.8431, 35.6411]
+        },
+        "properties": {
+            "STATE": "North Carolina",
+            "YEAR": "2021",
+            "White": "0.60904770488786",
+            "Black": "0.199079968632839",
+            "Latine": "0.101454418006282",
+            "Asian": "0.0311977012579278"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.793, 47.5362]
+        },
+        "properties": {
+            "STATE": "North Dakota",
+            "YEAR": "2021",
+            "White": "0.823428152598626",
+            "Black": "0.0286677299638169",
+            "Latine": "0.0414737504968075",
+            "Asian": "0.0175611782984149"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.7755, 40.3736]
+        },
+        "properties": {
+            "STATE": "Ohio",
+            "YEAR": "2021",
+            "White": "0.76555483748453",
+            "Black": "0.117351273771506",
+            "Latine": "0.0428993438634257",
+            "Asian": "0.0241683861746549"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.9247, 35.5376]
+        },
+        "properties": {
+            "STATE": "Oklahoma",
+            "YEAR": "2021",
+            "White": "0.629773350433786",
+            "Black": "0.0676324091546789",
+            "Latine": "0.117208505711202",
+            "Asian": "0.024100250862945"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.1269, 44.5672]
+        },
+        "properties": {
+            "STATE": "Oregon",
+            "YEAR": "2021",
+            "White": "0.719855963807256",
+            "Black": "0.0188462267628007",
+            "Latine": "0.140516773410297",
+            "Asian": "0.0475719798264548"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.264, 40.5773]
+        },
+        "properties": {
+            "STATE": "Pennsylvania",
+            "YEAR": "2021",
+            "White": "0.736520036630511",
+            "Black": "0.100153609333375",
+            "Latine": "0.0833963537337389",
+            "Asian": "0.0365882405938388"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.5101, 41.6772]
+        },
+        "properties": {
+            "STATE": "Rhode Island",
+            "YEAR": "2021",
+            "White": "0.689416854537655",
+            "Black": "0.0451784850448609",
+            "Latine": "0.171092815874262",
+            "Asian": "0.0321044897363113"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.9066, 33.8191]
+        },
+        "properties": {
+            "STATE": "South Carolina",
+            "YEAR": "2021",
+            "White": "0.625974313701125",
+            "Black": "0.248297678253725",
+            "Latine": "0.063493687273694",
+            "Asian": "0.016424165888834"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.4632, 44.2853]
+        },
+        "properties": {
+            "STATE": "South Dakota",
+            "YEAR": "2021",
+            "White": "0.799078822751559",
+            "Black": "0.0195470952985115",
+            "Latine": "0.0416897482175086",
+            "Asian": "0.0163484390915102"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.7489, 35.7449]
+        },
+        "properties": {
+            "STATE": "Tennessee",
+            "YEAR": "2021",
+            "White": "0.720456048828868",
+            "Black": "0.153141163473314",
+            "Latine": "0.0603272901291401",
+            "Asian": "0.0174190971522324"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.6475, 31.106]
+        },
+        "properties": {
+            "STATE": "Texas",
+            "YEAR": "2021",
+            "White": "0.393673741084758",
+            "Black": "0.116250672540967",
+            "Latine": "0.401550585596199",
+            "Asian": "0.0517647336128178"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.8535, 40.1135]
+        },
+        "properties": {
+            "STATE": "Utah",
+            "YEAR": "2021",
+            "White": "0.758958949662595",
+            "Black": "0.0107226686838577",
+            "Latine": "0.147926512331578",
+            "Asian": "0.0320958065893244"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.7093, 44.0407]
+        },
+        "properties": {
+            "STATE": "Vermont",
+            "YEAR": "2021",
+            "White": "0.904059978003935",
+            "Black": "0.0108896014374894",
+            "Latine": "0.0205353408615642",
+            "Asian": "0.0188608516504794"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.2057, 37.768]
+        },
+        "properties": {
+            "STATE": "Virginia",
+            "YEAR": "2021",
+            "White": "0.592352776595604",
+            "Black": "0.180198521824233",
+            "Latine": "0.101831184709024",
+            "Asian": "0.0678540161999029"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.5708, 47.3917]
+        },
+        "properties": {
+            "STATE": "Washington",
+            "YEAR": "2021",
+            "White": "0.643406792775833",
+            "Black": "0.0385668534165722",
+            "Latine": "0.136686664878251",
+            "Asian": "0.0993979344312967"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.9696, 38.468]
+        },
+        "properties": {
+            "STATE": "West Virginia",
+            "YEAR": "2021",
+            "White": "0.902605163663326",
+            "Black": "0.0283444543592982",
+            "Latine": "0.0175135827576517",
+            "Asian": "0.00814152204285124"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.6385, 44.2563]
+        },
+        "properties": {
+            "STATE": "Wisconsin",
+            "YEAR": "2021",
+            "White": "0.790057612839278",
+            "Black": "0.0609705918070635",
+            "Latine": "0.0748710800779117",
+            "Asian": "0.0299580658314207"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-107.2085, 42.7475]
+        },
+        "properties": {
+            "STATE": "Wyoming",
+            "YEAR": "2021",
+            "White": "0.813366551313659",
+            "Black": "0.0095766607982336",
+            "Latine": "0.106127646193955",
+            "Asian": "0.0075206935693146"
+        }
+    }]
+}
