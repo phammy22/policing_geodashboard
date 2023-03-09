@@ -1,7 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoicGhhbW15MjIiLCJhIjoiY2xhZ2JoNmEwMHI2azN1bzFwczlkMTNqdiJ9.T2vpz0gVbuFh7jAZJo67QA';
 
 //initialize map and details
-const map = new mapboxgl.Map({
+let map = new mapboxgl.Map({
     container: 'map', //container id
     style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq', //map style
     center: [-95.7129, 39.7], //starting coordinates
@@ -48,14 +48,22 @@ map.on('load', function () {
 
 
 */
-  map.on('load', function() {
+  
+map.on('load', function() {
   // Add a GeoJSON source containing your data
   map.addSource('states', {
     'type': 'geojson',
     'data': 'assets/demographics.geojson'
   });
 
+
+  
+  map.once('sourcedata', function() {
+    console.log('Data loaded successfully!');
+  });
+  
   // Add a layer for your data
+  /*
   map.addLayer({
     'id': 'states-layer',
     'type': 'fill',
@@ -64,7 +72,7 @@ map.on('load', function () {
       'fill-color': [
         'interpolate',
         ['linear'],
-        ['get', 'White'],
+        ['get', 'STATE'],
         0, '#ffffcc',
         0.2, '#c2e699',
         0.4, '#78c679',
@@ -74,20 +82,39 @@ map.on('load', function () {
       'fill-opacity': 0.7
     }
   });
-
+  */
+  map.addLayer({
+    'id': 'state-points',
+    'type': 'circle',
+    'source': 'states',
+    'paint': {
+        'circle-radius': 4,
+        'circle-stroke-width': 2,
+        'circle-color': [
+            'match',
+            ['get', 'STATE'],
+            'White',
+            '#F69697',
+            '',
+            '#000',
+            '#D21404'
+        ],
+        'circle-stroke-color': 'white'
+    }
+});
   // Create a popup object for displaying state demographic data
   var popup = new mapboxgl.Popup({
     closeButton: false,
-    closeOnClick: false
+    closeOnClick: true
   });
 
   // Create an event listener for the 'click' event on the states-layer
-  map.on('click', 'states-layer', function(e) {
+  map.on('click', 'state-points', function(e) {
     var state = e.features[0].properties.STATE;
-    var white = e.features[0].properties.White;
-    var black = e.features[0].properties.Black;
-    var latine = e.features[0].properties.Latine;
-    var asian = e.features[0].properties.Asian;
+    var white = Math.round(e.features[0].properties.White *100);
+    var black = Math.round(e.features[0].properties.Black * 100);
+    var latine = Math.round(e.features[0].properties.Latine*100);
+    var asian = Math.round(e.features[0].properties.Asian*100);
 
     // Set the popup HTML to display the state demographic data
     popup.setHTML('<h3>' + state + '</h3>' +
@@ -101,12 +128,12 @@ map.on('load', function () {
   });
 
   // Change the cursor to a pointer when the mouse is over the states-layer
-  map.on('mouseenter', 'states-layer', function() {
+  map.on('mouseenter', 'state-points', function() {
     map.getCanvas().style.cursor = 'pointer';
   });
 
   // Change the cursor back to the default when the mouse leaves the states-layer
-  map.on('mouseleave', 'states-layer', function() {
+  map.on('mouseleave', 'state-points', function() {
     map.getCanvas().style.cursor = '';
   });
 });
