@@ -9,6 +9,25 @@ body {
     width: 100%;
 }
 
+#statbox {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  height: 220px;
+  background: #fff;
+  margin-right: 20px;
+  margin-bottom: 340px;
+  padding: 10px 20px 10px 10px;
+  border-radius: 3px;
+  outline-style: solid;
+  outline-width: 2px;
+  outline-color: #000;
+  text-align: center;
+  font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  z-index: 2;
+}
+
 /* navbar loads on top */
 .navbar {
     z-index: 2;

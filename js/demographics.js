@@ -8,6 +8,8 @@ let map = new mapboxgl.Map({
   zoom: 4
 });
 
+
+
 // Load data
 map.on('load', function () {
   map.addSource('states', {
@@ -21,15 +23,15 @@ map.on('load', function () {
     type: 'fill',
     source: 'states',
     paint: {
-      
-        'fill-opacity': 0.6,
+        'fill-opacity': 0.2,
         'fill-outline-color': '#fff'
-        
-        
-      
-      
     }
   });
+  
+  //initialize statbox
+  const statbox = document.getElementById('statbox');
+
+  statbox.setHTML('<h4>Hover over a state to see its demographic data</h4>')
 
   // Add hover effects
   var popup = new mapboxgl.Popup({
@@ -45,13 +47,11 @@ map.on('load', function () {
     var asian = Math.round(e.features[0].properties.Asian * 100);
 
     map.getCanvas().style.cursor = 'pointer';
-    popup.setLngLat(e.lngLat)
-         .setHTML('<h3>' + state + '</h3>' +
+    statbox.setHTML('<h4>' + state + '</h4>' +
                   '<p>White: ' + white + '%</p>' +
                   '<p>Black: ' + black + '%</p>' +
                   '<p>Latine: ' + latine + '%</p>' +
                   '<p>Asian: ' + asian + '%</p>')
-         .addTo(map);
   });
 
   map.on('mouseleave', 'state-layer', function() {
@@ -78,3 +78,5 @@ map.on('load', function () {
   });
 
 });
+
+
