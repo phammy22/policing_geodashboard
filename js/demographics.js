@@ -12,27 +12,22 @@ let map = new mapboxgl.Map({
 map.on('load', function () {
   map.addSource('states', {
     type: 'geojson',
-    data: 'assets/originaldemographics.geojson'
+    data: 'assets/output4.json'
   });
 
   // Add layer for data
   map.addLayer({
     id: 'state-layer',
-    type: 'circle',
+    type: 'fill',
     source: 'states',
     paint: {
-      'circle-radius': 4,
-      'circle-stroke-width': 2,
-      'circle-color': [
-        'match',
-        ['get', 'STATE'],
-        'White',
-        '#F69697',
-        '',
-        '#000',
-        '#FFFF00'
-      ],
-      'circle-stroke-color': 'yellow'
+      
+        'fill-opacity': 0.6,
+        'fill-outline-color': '#fff'
+        
+        
+      
+      
     }
   });
 
@@ -68,7 +63,7 @@ map.on('load', function () {
   var filterYearEl = document.getElementById('year-filter');
   filterYearEl.addEventListener('change', function() {
     var year = filterYearEl.value;
-    if (year !== 'All') {
+    if (year !== 'Select a year') {
       map.setFilter('state-layer', ['==', ['get', 'YEAR'], year]);
     } else {
       map.setFilter('state-layer', null);
