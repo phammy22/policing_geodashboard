@@ -14,12 +14,12 @@ body {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 200px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
     background: #343a40;
     margin-right: 20px;
-    margin-bottom: 70px;
-    padding: 10px 20px 10px 10px;
+    margin-bottom: 340px;
+    padding: 10px 10px 10px 10px;
     border-radius: 3px;
     outline-style: solid;
     outline-width: 2px;

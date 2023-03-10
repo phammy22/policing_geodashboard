@@ -183,19 +183,19 @@ let labels = [
     '<strong style="color: #fff; font-size:15pt">Race</strong><br></br>', 
     '<p class="break"><i class="dot" style="' +
         'background: #F69697;' + 
-        ' "></i> White</p><br></br>',
+        ' "></i> White</p></br>',
 
     '<p class="break"><i class="dot" style=' +
         '"background: #D21404;' +  
-        ' "></i> Person of Color</p><br></br>',
+        ' "></i> Person of Color</p></br>',
 
     '<p class="break"><i class="dot" style=' +
         '"background: #000;' + 
-        ' "></i> Unlisted</p>',
+        ' "></i> Unknown</p><br>',
 ];
 
 const source =
-    '<p style="text-align: center; font-size:10pt; ">Source: <a href="https://airtable.com/shroOenW19l1m3w0H/tblxearKzw8W7ViN8">Mapping Police Violence</a></p>';
+    '<p style="text-align: left; font-size:9pt; ">Source: <a href="https://airtable.com/shroOenW19l1m3w0H/tblxearKzw8W7ViN8">Mapping Police Violence</a></p>';
 
 //combine content/labels
 legend.innerHTML = labels.join('') + source;
