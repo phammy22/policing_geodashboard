@@ -4,7 +4,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoicGhhbW15MjIiLCJhIjoiY2xhZ2JoNmEwMHI2azN1bzFwc
 const map = new mapboxgl.Map({
     container: 'map', //container id
     style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq', //map style
-    center: [-106.7129, 39.7], //starting coordinates
+    center: [-95.7129, 39.7], //starting coordinates
     zoom: 3.5 //starting zoom level
 });
 
