@@ -77,15 +77,45 @@
     <img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
       <h2 class="w3-wide">U.S. Police Violence Web Map</h2>
-      <p class="w3-opacity"><i>Project Summary</i></p>
-      <p class="w3-justify"> Lorem ipsum dolor sit amet, consectetur adipiscing
-        elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-        exercitation ullamco laboris nisi ut aliquip
-        ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-        nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-        id est laborum consectetur
-        adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p class="w3-opacity" style="font-size: 20pt;"><i>Project Summary</i></p>
+      <p class="w3-justify"> Since 2013, many people of all races, genders, and walks of life have rallied 
+        around the sweeping American social movement known as Black Lives Matter. Originally stemming from 
+        protest against excessive use of force predominantly targeting Black men by police officers around 
+        the United States, community members would take to the streets not only to communicate their 
+        dissatisfaction with policing in the United States, but also to memorialize the victims of these 
+        extreme uses of force.</p>
+      <p class="w3-justify"> The main focus of this project is to bring back attention to the individual 
+        lives that are being taken through police violence. The main feature of this map is to show the 
+        exact locations of police violence reports since the beginning of the BLM movement. Users are 
+        able to click on the points on the map to see the names, races, and ages of victims of police 
+        violence. And if the reader chooses, they may follow a link to a local news article about the 
+        police violence report.</p>
+      <p class="w3-justify"> While we do want to focus more on the individual, it is still very important 
+        to preserve the part of police reform movements that are pointing out disparities in how policing 
+        is done. To do this we are also including statistics for the racial makeup of each state accoording 
+        to the American Community Survey, and we are providing a bar chart that shows the racial statistics 
+        of all of the instances of police violence on the screen. These two tools in tandem will allow the 
+        user to better understand the disparities in policing in the United States.</p>
+
+      <p class="w3-opacity" style="font-size: 20pt;"><i>Data Sources</i></p>
+      <p class="w3-justify"> United States racial demographic data was pulled from the annual American Community 
+        Survey, which is a 1% sample of the US population taken every year. A clean compiled set of this data 
+        was acquired through <a href="https://usa.ipums.org/usa/">IPUMS USA</a>.</p>
+      <p class="w3-justify"> Police Violence report data was acquired from the 
+        <a href="https://airtable.com/shroOenW19l1m3w0H/tblxearKzw8W7ViN8">Mapping Police Violence</a> website. 
+        The site has many great info graphics and statistics on police violence in the US, as well as a 
+        collection of specific police violence reports.</p>
+
+      <p class="w3-opacity" style="font-size: 20pt;"><i>Data Processing</i></p>
+      <p class="w3-justify"> The ACS data is a collection of individual observations with multiple attributes to 
+        describe an individual taking the survey. These survey results were compiled into proportional demographic 
+        data using a simple <a href="https://github.com/phammy22/policing_geodashboard/blob/main/assets/data_cleaning.R">R script</a>.
+        These data are then used to make a fill type Mapbox layer.</p>
+      <p class="w3-justify"> The data from Mapping Police Violence was already very clean, so the data was usable 
+        without any sort of heavy duty processing requirements. Points on the map were frawn with a Mapbox layer 
+        using the latitude and longitude fields in the dataset. All demographic and individual data for that point 
+        is also taken directly from the data table and formatted into a Mapbox popup for viewing when the reader 
+        clicks on a point.</p>
       <div class="w3-row w3-padding-32">
         <div class="w3-half">
           <p>Name</p>
