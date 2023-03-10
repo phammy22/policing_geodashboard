@@ -6,7 +6,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <!-- stylesheet -->
-    <link href="css/style.css" rel="stylesheet"/>
+    <link href="css/demo.css" rel="stylesheet"/>
     <!-- mapbox style and script -->
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
@@ -69,6 +69,12 @@
     <main>
       <!-- load map -->
       <div id="map"></div>
+      <div class='map-overlay' id='features'>
+        <h2>2020 US COVID-19 Rates</h2>
+        <div id='text'>
+            <p>Hover over a county!</p>
+            
+        </div>
       <!-- load script with map -->
       <script src="js/demographics.js"></script>
     </main>
