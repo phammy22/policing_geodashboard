@@ -11,6 +11,10 @@ body {
     box-sizing: inherit;
   }
   
+  a.active {
+    font: bold;
+}
+  
   .column {
     float: left;
     width: 33.3%;
