@@ -63,7 +63,46 @@
       <!-- load map and legend -->
       <div id="map"></div>
       <div id="legend"></div>
-
+      
+      <!-- Load Disclaimer -->
+       <!-- Welcome Panel -->
+       <div
+       id="welcome"
+       class="modal fade"
+       tabindex="-1"
+       role="dialog"
+       aria-hidden="true"
+     >
+       <div class="modal-dialog modal-dialog-centered">
+         <div class="modal-content">
+           <div class="modal-header">
+             <h5 class="modal-title">Disclaimer</h5>
+           </div>
+           <div class="modal-body">
+             <p>
+               This map is a window into police violence in the united states. It involves very 
+               uncomfortable content about various crimes and people that may be disturbing for some users. 
+               Aditionally, the data on this page contains the names and information about victims of police 
+               violence. We implore you not to use this information to contact, harass, or otherwise interact 
+               with victims, their families, or any law enforcers mentioned in descriptions or articles.
+             </p>
+           </div>
+           <div class="modal-footer">
+             <button
+               type="button"
+               class="btn btn-primary"
+               data-dismiss="modal"
+             >
+               Close
+             </button>
+           </div>
+         </div>
+       </div>
+     </div>
+   <script>
+     var myModal = new bootstrap.Modal(document.getElementById("welcome"));
+     myModal.show();
+   </script>
       <!-- <div id="info">
         <div id="title">
             Reports of Police Violence in the U.S.
