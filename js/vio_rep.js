@@ -4,7 +4,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoicGhhbW15MjIiLCJhIjoiY2xhZ2JoNmEwMHI2azN1bzFwc
 const map = new mapboxgl.Map({
     container: 'map', //container id
     style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq', //map style
-    center: [-95.7129, 39.7], //starting coordinates
+    center: [-106.7129, 39.7], //starting coordinates
     zoom: 3.5 //starting zoom level
 });
 
@@ -101,22 +101,23 @@ const source =
 //combine content/labels
 legend.innerHTML = labels.join('') + source;
 
-/* When the user clicks on the button,
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
+// Filter by year
+var filterYearEl = document.getElementById('year-filter');
+filterYearEl.addEventListener('change', function() {
+  var year = filterYearEl.value;
+  if (year !== 'Select a year') {
+    map.setFilter('report-points', 
+    ['all',
+        ['==', 'yr', year]
+    ]);
+  } else {
+    map.setFilter('report-points');
   }
-  
-  // Close the dropdown menu if the user clicks outside of it
-  window.onclick = function(event) {
-    if (!event.target.matches('.dropbtn')) {
-      var dropdowns = document.getElementsByClassName("dropdown-content");
-      var i;
-      for (i = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show')) {
-          openDropdown.classList.remove('show');
-        }
-      }
-    }
-  }
+});
+
+// Reset the data source to show all years when the reset button is clicked
+var resetBtnEl = document.getElementById('reset-btn');
+resetBtnEl.addEventListener('click', function() {
+  map.setFilter('report-points', null);
+  filterYearEl.selectedIndex = 0;
+});
