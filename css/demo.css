@@ -15,7 +15,7 @@ body {
   right: 0;
   width: 200px;
   height: 220px;
-  background: #fff;
+  background: #343a40;
   margin-right: 20px;
   margin-bottom: 340px;
   padding: 10px 20px 10px 10px;
@@ -24,6 +24,7 @@ body {
   outline-width: 2px;
   outline-color: #000;
   text-align: center;
+  color: #fff;
   font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
   z-index: 2;
 }

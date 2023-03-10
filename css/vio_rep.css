@@ -16,15 +16,16 @@ body {
     right: 0;
     width: 200px;
     height: 250px;
-    background: #717891;
+    background: #343a40;
     margin-right: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 70px;
     padding: 10px 20px 10px 10px;
     border-radius: 3px;
     outline-style: solid;
     outline-width: 2px;
     outline-color: #000;
     text-align: center;
+    color: #fff;
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     z-index: 2;
 }
