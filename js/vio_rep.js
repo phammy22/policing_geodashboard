@@ -5,7 +5,7 @@ const map = new mapboxgl.Map({
     container: 'map', //container id
     style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq', //map style
     center: [-95.7129, 39.7], //starting coordinates
-    zoom: 4 //starting zoom level
+    zoom: 3.5 //starting zoom level
 });
 
 //load violence data
@@ -101,4 +101,22 @@ const source =
 //combine content/labels
 legend.innerHTML = labels.join('') + source;
 
-
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+  }
+  
+  // Close the dropdown menu if the user clicks outside of it
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  }

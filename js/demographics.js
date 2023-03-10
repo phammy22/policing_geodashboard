@@ -5,7 +5,7 @@ let map = new mapboxgl.Map({
     container: 'map', //container id
     style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq', //map style
     center: [-95.7129, 39.7], //starting coordinates
-    zoom: 4 //starting zoom level
+    zoom: 3.5 //starting zoom level
 });
 /*
 // Load the GeoJSON data
