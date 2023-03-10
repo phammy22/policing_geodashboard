@@ -35,6 +35,12 @@ body {
     z-index: 2;
 }
 
+.logo {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+}
+
 .mapboxgl-popup {
     max-width: 400px;
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
