@@ -96,37 +96,6 @@
         to the American Community Survey, and we are providing a bar chart that shows the racial statistics 
         of all of the instances of police violence on the screen. These two tools in tandem will allow the 
         user to better understand the disparities in policing in the United States.</p>
-
-      <p class="w3-opacity" style="font-size: 20pt;"><i>Data Sources</i></p>
-      <p class="w3-justify"> United States racial demographic data was pulled from the annual American Community 
-        Survey, which is a 1% sample of the US population taken every year. A clean compiled set of this data 
-        was acquired through <a href="https://usa.ipums.org/usa/">IPUMS USA</a>.</p>
-      <p class="w3-justify"> Police Violence report data was acquired from the 
-        <a href="https://airtable.com/shroOenW19l1m3w0H/tblxearKzw8W7ViN8">Mapping Police Violence</a> website. 
-        The site has many great info graphics and statistics on police violence in the US, as well as a 
-        collection of specific police violence reports.</p>
-
-      <p class="w3-opacity" style="font-size: 20pt;"><i>Data Processing</i></p>
-      <p class="w3-justify"> The ACS data is a collection of individual observations with multiple attributes to 
-        describe an individual taking the survey. These survey results were compiled into proportional demographic 
-        data using a simple <a href="https://github.com/phammy22/policing_geodashboard/blob/main/assets/data_cleaning.R">R script</a>.
-        These data are then used to make a fill type Mapbox layer.</p>
-      <p class="w3-justify"> The data from Mapping Police Violence was already very clean, so the data was usable 
-        without any sort of heavy duty processing requirements. Points on the map were frawn with a Mapbox layer 
-        using the latitude and longitude fields in the dataset. All demographic and individual data for that point 
-        is also taken directly from the data table and formatted into a Mapbox popup for viewing when the reader 
-        clicks on a point.</p>
-      <div class="w3-row w3-padding-32">
-        <div class="w3-half">
-          <p>Name</p>
-          <img src="/w3images/bandmember.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
-        </div>
-        <div class="w3-half">
-          <p>Name</p>
-          <img src="/w3images/bandmember.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
-        </div>
-       
-      </div>
     </div>
 
     <div class="w3-black" id="tour">
@@ -134,34 +103,38 @@
         <h2 class="w3-wide w3-center">Data Sources</h2>
         
   
-        <ul class="w3-ul w3-border w3-white w3-text-grey">
-          <li class="w3-padding"> <a href="https://mappingpoliceviolence.org/"> Mapping Police Violence Project</a> 
-            <p>We used</p>
+        <ul class="w3-ul w3-border w3-white">
+          <li class="w3-padding"> <b><a>Methods</a></b><br></br>
+            <p class="w3-justify"> The ACS data is a collection of individual observations with multiple attributes to 
+              describe an individual taking the survey. These survey results were compiled into proportional demographic 
+              data using a simple <a href="https://github.com/phammy22/policing_geodashboard/blob/main/assets/data_cleaning.R">R script</a>.
+              These data are then used to make a fill type Mapbox layer.</p>
+            <p class="w3-justify"> The data from Mapping Police Violence was already very clean, so the data was usable 
+              without any sort of heavy duty processing requirements. Points on the map were frawn with a Mapbox layer 
+              using the latitude and longitude fields in the dataset. All demographic and individual data for that point 
+              is also taken directly from the data table and formatted into a Mapbox popup for viewing when the reader 
+              clicks on a point.</p>
           </li>
-
-          
-          <li class="w3-padding">November <span class="w3-badge w3-right w3-margin-right">3</span></li>
         </ul>
   
         <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
           <div class="w3-half w3-margin-bottom">
-            <img src="/w3images/newyork.jpg" alt="New York" style="width:100%" class="w3-hover-opacity">
+            <img src="./img/IPUMS_logo.png" alt="IPUMS Logo" style="width:100%">
             <div class="w3-container w3-white">
-              <p><b>New York</b></p>
-              <p class="w3-opacity">Fri 27 Nov 2016</p>
-              <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+              <a href="https://usa.ipums.org/usa/"><b>ACS Data from IPUMS</b></a><br></br>
+              <p> United States racial demographic data was pulled from the annual American Community Survey, which is a 1% 
+                sample of the US population taken every year. A clean compiled set of this data was acquired through IPUMS USA.</p>
               
             </div>
           </div>
           <div class="w3-half w3-margin-bottom">
-            <img src="/w3images/paris.jpg" alt="Paris" style="width:100%" class="w3-hover-opacity">
+            <img src="./img/mpv_logo.png" alt="Mapping Police Violence Header" style="width:100%">
             <div class="w3-container w3-white">
-              <p><b>Paris</b></p>
-              <p class="w3-opacity">Sat 28 Nov 2016</p>
-              <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
+              <a href="https://mappingpoliceviolence.org/"><b>Mapping Police Violece Project</b></a><br></br>
+              <p> Police Violence report data was acquired from the Mapping Police Violence website. The site has many great info 
+              graphics and statistics on police violence in the US, as well as a collection of specific police violence reports.</p>
              
           </div>
-         
         </div>
       </div>
     </div>
