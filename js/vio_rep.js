@@ -74,7 +74,7 @@ async function geojsonFetch() {
             // Populate the popup and set its coordinates
             // based on the feature found.
             popup.setLngLat(coordinates).setHTML
-                (name + ", " + age + " y/o " + race + " " + gender + "<br>" + "Date: " + date + "<br>" + circumstances + "<br>" + "<a href='" + news + "'>Read More</a>").addTo(map);
+                (name + ", " + age + " y/o " + race + " " + gender + "<br>" + "Date: " + date + "<br>" + circumstances + "<br>" + "<a href='" + news + "' target='_blank' rel='noopener noreferer'>Read More</a>").addTo(map);
         });
         // Change the cursor style to pointer on hover of points
         map.on('mouseenter', 'report-points', () => {
