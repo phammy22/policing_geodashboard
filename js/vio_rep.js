@@ -76,5 +76,29 @@ map.on('load', () => {
     });
 });
 
+//load legend with map details
+const legend = document.getElementById('legend');
+
+//set up content and labels
+let labels = [
+    '<strong style="color: #fff; font-size:15pt">Race</strong><br></br>', 
+    '<p class="break"><i class="dot" style="' +
+        'background: #F69697;' + 
+        ' "></i> White</p><br></br>',
+
+    '<p class="break"><i class="dot" style=' +
+        '"background: #D21404;' +  
+        ' "></i> Person of Color</p><br></br>',
+
+    '<p class="break"><i class="dot" style=' +
+        '"background: #000;' + 
+        ' "></i> Unlisted</p>',
+];
+
+const source =
+    '<p style="text-align: center; font-size:10pt; ">Source: <a href="https://airtable.com/shroOenW19l1m3w0H/tblxearKzw8W7ViN8">Mapping Police Violence</a></p>';
+
+//combine content/labels
+legend.innerHTML = labels.join('') + source;
 
 

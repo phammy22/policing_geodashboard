@@ -9,6 +9,26 @@ body {
     width: 100%;
 }
 
+/* the layout of the legend panel */
+#legend {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 250px;
+    background: #717891;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding: 10px 20px 10px 10px;
+    border-radius: 3px;
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #000;
+    text-align: center;
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    z-index: 2;
+}
+
 /* navbar loads on top */
 .navbar {
     z-index: 2;
@@ -19,7 +39,32 @@ body {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
+.break {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    color: #fff;
+    margin-left: 5px;
+    font: 16px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+/* basic style for a dot/circle */
+.dot {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-top: 0px;
+    opacity: 1;
+    border-radius: 50%;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: #fff;
+}
+
 a.active {
     font: bold;
 }
+
+
 
