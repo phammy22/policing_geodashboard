@@ -5,7 +5,7 @@ let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/phammy22/cles4fq22002601qghfyvqfpq',
   center: [-95.7129, 39.7],
-  zoom: 3.5
+  zoom: 4
 });
 
 
