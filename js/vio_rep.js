@@ -30,14 +30,14 @@ async function geojsonFetch() {
             'source': 'reports',
             'paint': {
                 'circle-radius': 4,
-                'circle-stroke-width': 2,
+                'circle-stroke-width': 0.8,
                 'circle-color': [
                     'match',
                     ['get', 'race'],
                     'White',
                     '#F69697',
                     '',
-                    '#000',
+                    '#808080',
                     '#D21404'
                 ],
                 'circle-stroke-color': 'white'
