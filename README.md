@@ -1,5 +1,4 @@
-# Understanding Policing Violence (UPV)
-[Link to Web Map Project](https://phammy22.github.io/policing_geodashboard/)
+# [Understanding Policing Violence (UPV)](https://phammy22.github.io/policing_geodashboard/)
 
  Since 2013, many people of all races, genders, and walks of life have rallied around the sweeping American social movement known as Black Lives Matter. Originally stemming from protest against excessive use of force predominantly targeting Black men by police officers around the United States, community members would take to the streets not only to communicate their dissatisfaction with policing in the United States, but also to memorialize the victims of these extreme uses of force.
 
