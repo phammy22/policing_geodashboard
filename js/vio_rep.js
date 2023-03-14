@@ -190,7 +190,7 @@ let labels = [
         ' "></i> Person of Color</p></br>',
 
     '<p class="break"><i class="dot" style=' +
-        '"background: #000;' + 
+        '"background: #808080;' + 
         ' "></i> Unknown</p><br>',
 ];
 
