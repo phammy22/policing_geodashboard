@@ -19,6 +19,8 @@ While we do want to focus more on the individual, it is still very important to 
 ![year filter map](/img/demo/popup.png)
 >The amount of information on the map may be slightly daunting at first since it shows all 10 years worth of violence reports at once. Users can filter the data points by year using the dropdown in the top left corner (displayed above).
 
+![demographics hover map](/img/demographics.png)
+>User can hover over a state after filtering to the desired year and the side box will reveal the statistics of the racial breakdown of the population in the given state. 
 
 ## Data Sources
  - United States racial demographic data was pulled from the annual American Community Survey, which is a 1% sample of the US population taken every year. A clean compiled set of this data was acquired through [IPUMS USA](https://usa.ipums.org/usa/).
